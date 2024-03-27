@@ -17,7 +17,7 @@ for movie in movies:
         ),
         "year": movie.xpath(
             './/div[@class="ipc-metadata-list-summary-item__c"]/div/div/div[@class="sc-b0691f29-7 hrgukm cli-title-metadata"]/span[@class="sc-b0691f29-8 ilsLEX cli-title-metadata-item"]/text()[1]'  # noqa
-        )[0:-2],
+        )[:-2],
         "rating": movie.xpath('.//div[@class="ipc-metadata-list-summary-item__c"]/div/div/span[@class="sc-b0691f29-1 grHDBY"]/div/span/text()'),
     }
     all_movies.append(m)
