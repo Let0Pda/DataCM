@@ -44,7 +44,7 @@ for movie in movies:
         "movie_duration": movie_duration[0] if movie_duration else "N/A",
         "age_rating": age_rating[0] if age_rating else "N/A",
         "popularity": aria_label,
-        "movie_url": movie_url[0] if movie_url else "N/A",
+        "movie_url": movie_url[0],
     }
     all_movies.append(m)
 
