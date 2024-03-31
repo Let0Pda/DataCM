@@ -50,5 +50,5 @@ for movie in movies:
 
 
 if __name__ == "__main__":
-    get_movies(all_movies)
-    # print(all_movies)
+    # get_movies(all_movies)
+    print(all_movies)
