@@ -1,6 +1,6 @@
 import scrapy
 from scrapy.http import HtmlResponse
-from ..items import JobparserItem
+from jobparser.items import JobparserItem
 
 
 class HhruSpider(scrapy.Spider):
