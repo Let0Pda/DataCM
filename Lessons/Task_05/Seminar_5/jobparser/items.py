@@ -11,3 +11,4 @@ class JobparserItem(scrapy.Item):
     name = scrapy.Field()
     salary = scrapy.Field()
     url = scrapy.Field()
+    _id = scrapy.Field()
