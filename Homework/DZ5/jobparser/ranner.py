@@ -8,7 +8,7 @@ if __name__ == "__main__":
     configure_logging()
     settings = get_project_settings()
     settings["FEEDS"] = {
-        "vacancy.json": {"format": "json"},
+        "vacancy.json": {"format": "json", "encoding": "utf-8"},
     }
     install_reactor("twisted.internet.asyncioreactor.AsyncioSelectorReactor")
     process = CrawlerProcess(settings)
