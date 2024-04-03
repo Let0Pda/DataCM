@@ -25,14 +25,17 @@ class JobparserPipeline:
         client = MongoClient("mongodb://localhost:27017/")
         self.spider = spider
         self.mongo_base = client[mongo_base_name]
-        self.json_file = open(f"{spider.name}_{date_string}.json", "w", encoding="utf-8")
-        self.csv_file = open(f"{spider.name}_{date_string}.csv", "w", newline="", encoding="utf-8")
-        self.csv_writer = csv.writer(self.csv_file)
-        self.csv_writer.writerow(["_id", "name", "salary", "url"])
 
     @classmethod
     def from_crawler(cls, crawler):
         return cls(spider=crawler.spider)
+
+    def open_spider(self, spider):
+        self.json_file = open(f"{spider.name}_{date_string}.json", "w", encoding="utf-8")
+        # self.json_file_closed = False
+        self.csv_file = open(f"{spider.name}_{date_string}.csv", "w", newline="", encoding="utf-8")
+        self.csv_writer = csv.writer(self.csv_file)
+        self.csv_writer.writerow(["_id", "name", "salary", "url"])
 
     def process_salary(self, item):
         # Заменяем все \xa0 на пробелы и объединяем элементы в строку
@@ -58,7 +61,7 @@ class JobparserPipeline:
             # Обработка ошибки дублирования ключа
             print(f"Ошибка: Документ с _id {item['_id']} уже существует.")
         # Сохраняем в JSON файл
-        line = json.dumps(dict(item), ensure_ascii=False) + "\n"
+        line = f"{json.dumps(dict(item), ensure_ascii=False)}," + "\n"
         self.json_file.write(line)
         # Сохраняем в CSV файл
         self.csv_writer.writerow([item["_id"], item["name"], item["salary"], item["url"]])
@@ -69,4 +72,5 @@ class JobparserPipeline:
     def close_spider(self, spider):
         # Закрываем файлы после завершения работы паука
         self.json_file.close()
+        # self.json_file_closed = True
         self.csv_file.close()
