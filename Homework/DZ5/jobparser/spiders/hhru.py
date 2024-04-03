@@ -23,17 +23,7 @@ class HhruSpider(scrapy.Spider):
         salary_parts = response.xpath("//div[@data-qa='vacancy-salary']//text()").getall()
         salary = self.process_salary_range(salary_parts)
         url = response.url
-        yield {"name": name, "salary": salary, "url": url}
+        url_base = url.split("?")[0]
+        _id = url_base.split("/")[-1]
 
-    def process_salary_range(self, salary_parts):
-        result = ""
-        if salary_parts:
-            for part in salary_parts:
-                cleaned_part = part.replace("\xa0", "").strip()
-                if cleaned_part.replace(".", "", 1).isdigit():
-                    number = int(cleaned_part.replace(".", "", 1))
-                    formatted_number = "{:,}".format(number).replace(",", " ")
-                    result += f"{formatted_number} "
-                else:
-                    result += f"{part} "
-        return result.strip()
+        yield {"name": name, "salary": salary, "url": url, "_id": _id}
