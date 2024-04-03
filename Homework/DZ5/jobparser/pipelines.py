@@ -30,6 +30,10 @@ class JobparserPipeline:
         self.csv_writer = csv.writer(self.csv_file)
         self.csv_writer.writerow(["_id", "name", "salary", "url"])
 
+    @classmethod
+    def from_crawler(cls, crawler):
+        return cls(spider=crawler.spider)
+
     def process_salary(self, item):
         # Заменяем все \xa0 на пробелы и объединяем элементы в строку
         salary_str = " ".join([part.replace("\xa0", " ") for part in item["salary"]])
