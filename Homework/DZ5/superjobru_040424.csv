@@ -1,221 +1,444 @@
 _id,name,salary,url
-48985950,Работник химчистки,3500 — 5000 Руб,https://mo.superjob.ru/vakansii/rabotnik-himchistki-48985950.html
-47569758,Менеджер по продажам,от 70 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-prodazham-47569758.html
-47701412,Аналитик,от 50 000 Руб,https://mo.superjob.ru/vakansii/analitik-47701412.html
-46270689,Продавец (без кассы),от 66 000 Руб,https://mo.superjob.ru/vakansii/prodavec-46270689.html
-48969992,Приемщик заказов / Продавец-консультант,от 30 000 Руб,https://mo.superjob.ru/vakansii/priemschik-zakazov-48969992.html
-47571461,Инструктор по вождению,от 35 640 Руб,https://mo.superjob.ru/vakansii/instruktor-po-vozhdeniyu-47571461.html
-46269551,Сотрудник ночной смены предприятия «Вкусно — и точка»,до 87 000 Руб,https://mo.superjob.ru/vakansii/sotrudnik-nochnoj-smeny-predpriyatiya-46269551.html
-43016856,Оптометрист консультант / оптик консультант,50 000 — 60 000 Руб,https://mo.superjob.ru/vakansii/optometrist-konsultant-43016856.html
-47070055,Слесарь по контрольно-измерительным приборам и автоматике,49 000 — 56 000 Руб,https://mo.superjob.ru/vakansii/slesar-po-kontrolno-izmeritelnym-priboram-i-avtomatike-47070055.html
-45766707,Инженер-проектировщик сетей газораспределения и газопотребления,от 60 000 Руб,https://mo.superjob.ru/vakansii/inzhener-proektirovschik-setej-gazoraspredeleniya-i-gazopotrebleniya-45766707.html
-48964848,Шеф-повар,от 55 000 Руб,https://mo.superjob.ru/vakansii/shef-povar-48964848.html
-31444162,"Укладчик-упаковщик, упаковщик",от 65 000 Руб,https://mo.superjob.ru/vakansii/ukladchik-upakovschik-31444162.html
-46624736,"Горничная, уборщица",от 28 000 Руб,https://mo.superjob.ru/vakansii/gornichnaya-46624736.html
-47959461,Почтальон мобильной группы,53 000 — 63 000 Руб,https://mo.superjob.ru/vakansii/pochtalon-mobilnoj-gruppy-47959461.html
-47114270,Бухгалтер,от 50 000 Руб,https://mo.superjob.ru/vakansii/buhgalter-47114270.html
-48843243,Продавец-консультант / Оптик / Оптометрист,от 40 000 Руб,https://mo.superjob.ru/vakansii/prodavec-konsultant-48843243.html
-48337118,Инженер слаботочных систем,от 35 000 Руб,https://mo.superjob.ru/vakansii/inzhener-slabotochnyh-sistem-48337118.html
-48420454,Токарь-фрезеровщик,от 100 000 Руб,https://mo.superjob.ru/vakansii/tokar-frezerovschik-48420454.html
-48420450,Менеджер по продажам новостроек,от 70 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-prodazham-novostroek-48420450.html
-48928320,Электромонтажник по СС и ЭО 4 разряда,от 80 000 Руб,https://mo.superjob.ru/vakansii/elektromontazhnik-po-ss-i-eo-4-razryada-48928320.html
-48963093,Военнослужащий по контракту (СВО),от 275 000 Руб,https://mo.superjob.ru/vakansii/voennosluzhaschij-po-kontraktu-48963093.html
-47526549,Рабочий цеха,50 000 — 70 000 Руб,https://mo.superjob.ru/vakansii/rabochij-ceha-47526549.html
-40192838,Водитель микроавтобуса категории D,от 50 000 Руб,https://mo.superjob.ru/vakansii/voditel-mikroavtobusa-kategorii-d-40192838.html
-36308565,Уборщик служебных помещений,25 000 Руб,https://mo.superjob.ru/vakansii/uborschik-sluzhebnyh-pomeschenij-36308565.html
-48020848,Сварщик на ПА,132 000 — 145 000 Руб,https://mo.superjob.ru/vakansii/svarschik-na-pa-48020848.html
-48844851,Водитель-автоняня (сопровождение детей),от 70 000 Руб,https://mo.superjob.ru/vakansii/voditel-avtonyanya-48844851.html
-48846597,Водитель категории Е,160 000 — 200 000 Руб,https://mo.superjob.ru/vakansii/voditel-kategorii-e-48846597.html
-48610477,Слесарь механосборочных работ,от 45 000 Руб,https://mo.superjob.ru/vakansii/slesar-mehanosborochnyh-rabot-48610477.html
-27164043,Мастер по обслуживанию домофонов средств связи видеонаблюдения,от 50 000 Руб,https://mo.superjob.ru/vakansii/master-po-obsluzhivaniyu-domofonov-sredstv-svyazi-videonablyudeniya-27164043.html
-48024573,Обивщик мягкой мебели,до 90 000 Руб,https://mo.superjob.ru/vakansii/obivschik-myagkoj-mebeli-48024573.html
-49012574,Администратор магазина,35 000 — 55 000 Руб,https://mo.superjob.ru/vakansii/administrator-magazina-49012574.html
-47613080,Каменщик,от 100 000 Руб,https://mo.superjob.ru/vakansii/kamenschik-47613080.html
-48850462,Фармацевт-провизор,75 000 — 95 000 Руб,https://mo.superjob.ru/vakansii/farmacevt-provizor-48850462.html
-40972500,Мойщик котлов,от 35 000 Руб,https://mo.superjob.ru/vakansii/mojschik-kotlov-40972500.html
-45052987,Уборщица,от 30 000 Руб,https://mo.superjob.ru/vakansii/uborschica-45052987.html
-47278673,Отоларинголог,от 60 000 Руб,https://mo.superjob.ru/vakansii/otolaringolog-47278673.html
-43509215,Врач оториноларинголог,от 150 000 Руб,https://mo.superjob.ru/vakansii/vrach-otorinolaringolog-43509215.html
-47536763,Водитель категории С,от 100 000 Руб,https://mo.superjob.ru/vakansii/voditel-kategorii-s-47536763.html
-48666783,Провизор/Фармацевт,от 70 000 Руб,https://mo.superjob.ru/vakansii/provizor-48666783.html
-48799041,Шлифовщик,205 000 — 215 000 Руб,https://mo.superjob.ru/vakansii/shlifovschik-48799041.html
-48985010,Специалист складского учета,35 000 Руб,https://mo.superjob.ru/vakansii/specialist-skladskogo-ucheta-48985010.html
-47630507,Продавец-консультант,42 000 — 60 000 Руб,https://mo.superjob.ru/vakansii/prodavec-konsultant-47630507.html
-47101072,Повар-сушист,60 000 — 95 000 Руб,https://mo.superjob.ru/vakansii/povar-sushist-47101072.html
-48441112,Помощник повара,от 65 000 Руб,https://mo.superjob.ru/vakansii/pomoschnik-povara-48441112.html
-49040894,Рабочий по ремонту холодильных камер (без опыта),от 160 000 Руб,https://mo.superjob.ru/vakansii/rabochij-po-remontu-holodilnyh-kamer-49040894.html
-47450833,Велокурьер,до 162 000 Руб,https://mo.superjob.ru/vakansii/velokurer-47450833.html
-48647803,Сборщик,от 55 000 Руб,https://mo.superjob.ru/vakansii/sborschik-48647803.html
-47438800,Администратор склада,от 68 800 Руб,https://mo.superjob.ru/vakansii/administrator-sklada-47438800.html
-47825926,Выездной сервисный инженер,90 000 — 120 000 Руб,https://mo.superjob.ru/vakansii/vyezdnoj-servisnyj-inzhener-47825926.html
-48666800,Заведующий аптекой,от 80 000 Руб,https://mo.superjob.ru/vakansii/zaveduyuschij-aptekoj-48666800.html
-47540335,Водитель-экспедитор,от 90 000 Руб,https://mo.superjob.ru/vakansii/voditel-ekspeditor-47540335.html
-48985736,Фрезеровщик,205 000 — 215 000 Руб,https://mo.superjob.ru/vakansii/frezerovschik-48985736.html
-46644787,Оператор послепечатного участка,от 25 000 Руб,https://mo.superjob.ru/vakansii/operator-poslepechatnogo-uchastka-46644787.html
-34547872,Водитель высотного погрузчика / электроштабелера (Софрино),от 75 000 Руб,https://mo.superjob.ru/vakansii/voditel-vysotnogo-pogruzchika-34547872.html
-48229001,Программист наладчик токарного ЧПУ,от 90 000 Руб,https://mo.superjob.ru/vakansii/programmist-naladchik-tokarnogo-chpu-48229001.html
-33466029,Упаковщик-комплектовщик,от 55 000 Руб,https://mo.superjob.ru/vakansii/upakovschik-komplektovschik-33466029.html
-48740254,Врач-педиатр,100 000 — 120 000 Руб,https://mo.superjob.ru/vakansii/vrach-pediatr-48740254.html
-41421758,Начальник отдела МТО,70 000 — 90 000 Руб,https://mo.superjob.ru/vakansii/nachalnik-otdela-mto-41421758.html
-48763483,Продавец продовольственных товаров,от 50 000 Руб,https://mo.superjob.ru/vakansii/prodavec-prodovolstvennyh-tovarov-48763483.html
-47865034,Водитель грузового автомобиля (контейнеровоза) категории Е,150 000 — 180 000 Руб,https://mo.superjob.ru/vakansii/voditel-gruzovogo-avtomobilya-47865034.html
-44433698,Повар-пиццамейкер,40 000 — 50 000 Руб,https://mo.superjob.ru/vakansii/povar-piccamejker-44433698.html
-48449842,Уборщица-посудомойщица / Уборщик-посудомойщик,36 000 — 42 000  Мытищи и,https://mo.superjob.ru/vakansii/uborschica-posudomojschica-48449842.html
-48653104,Водитель скорой помощи,от 48 000 Руб,https://mo.superjob.ru/vakansii/voditel-skoroj-pomoschi-48653104.html
-41604699,Продавец-кассир (м. Багратионовская),По договорённости и,https://mo.superjob.ru/vakansii/prodavec-kassir-41604699.html
-40808911,Слесарь-сантехник,от 50 000 Руб,https://mo.superjob.ru/vakansii/slesar-santehnik-40808911.html
-36771909,Упаковщица-комплектовщица,25 000 Руб,https://mo.superjob.ru/vakansii/upakovschica-komplektovschica-36771909.html
-48654555,Водитель категории Е / Дальнобойщик,от 110 000 Руб,https://mo.superjob.ru/vakansii/voditel-kategorii-e-48654555.html
-48199314,Математик,от 50 000 Руб,https://mo.superjob.ru/vakansii/matematik-48199314.html
-47999612,Медицинский оптик-оптометрист,60 000 — 100 000 Руб,https://mo.superjob.ru/vakansii/medicinskij-optik-optometrist-47999612.html
-49001894,Контролер-упаковщик / Оператор производственной линии / Рабочий на производство,50 000 — 70 000 Руб,https://mo.superjob.ru/vakansii/kontroler-upakovschik-49001894.html
-48880043,Клинер / Уборщик,38 000 — 48 000 Руб,https://mo.superjob.ru/vakansii/kliner-48880043.html
-46450087,Мастер маникюра и педикюра,до 100 000 Руб,https://mo.superjob.ru/vakansii/master-manikyura-i-pedikyura-46450087.html
-48747257,Продавец,45 000 — 60 000 Руб,https://mo.superjob.ru/vakansii/prodavec-48747257.html
-42971610,"Швея, раскройщик",60 000 — 80 000 Руб,https://mo.superjob.ru/vakansii/shveya-42971610.html
-48266728,Кладовщик,от 35 000 Руб,https://mo.superjob.ru/vakansii/kladovschik-48266728.html
-47880775,"Водитель категории C, E",от 90 000 Руб,https://mo.superjob.ru/vakansii/voditel-kategorii-c-47880775.html
-48467056,Уборщик офисных помещений,от 25 000 Руб,https://mo.superjob.ru/vakansii/uborschik-ofisnyh-pomeschenij-48467056.html
-47130540,Фармацевт,от 65 000 Руб,https://mo.superjob.ru/vakansii/farmacevt-47130540.html
-42971619,Страховой консультант Серебряные Пруды,от 20 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-konsultant-serebryanye-prudy-42971619.html
-48143998,Провизор / Фармацевт в аптеку,от 72 000 Руб,https://mo.superjob.ru/vakansii/provizor-48143998.html
-49008923,Подсобный рабочий,90 000 — 120 000 Руб,https://mo.superjob.ru/vakansii/podsobnyj-rabochij-49008923.html
-48661587,Оператор (диспетчер) весового контроля,3000 Руб,https://mo.superjob.ru/vakansii/operator-48661587.html
-47593110,Почтальон,16 000 — 19 000 Руб,https://mo.superjob.ru/vakansii/pochtalon-47593110.html
-31441713,"Наладчик оборудования, механик, техник",95 000 — 120 000 Руб,https://mo.superjob.ru/vakansii/naladchik-oborudovaniya-31441713.html
-48220224,Мастер котельной,от 5000 Руб,https://mo.superjob.ru/vakansii/master-kotelnoj-48220224.html
-48811038,Токарь,205 000 — 215 000 Руб,https://mo.superjob.ru/vakansii/tokar-48811038.html
-48889801,Преподаватель онлайн,от 40 000 Руб,https://mo.superjob.ru/vakansii/prepodavatel-onlajn-48889801.html
-45173515,Заведующий производством,По договорённости и,https://mo.superjob.ru/vakansii/zaveduyuschij-proizvodstvom-45173515.html
-47276984,Дерматолог,от 60 000 Руб,https://mo.superjob.ru/vakansii/dermatolog-47276984.html
-43138316,Врач уролог-андролог,от 80 000 Руб,https://mo.superjob.ru/vakansii/vrach-urolog-androlog-43138316.html
-46898319,Специалист по пожарной безопасности,от 28 250 Руб,https://mo.superjob.ru/vakansii/specialist-po-pozharnoj-bezopasnosti-46898319.html
-46166921,Ночной продавец на выкладку,от 70 000 Руб,https://mo.superjob.ru/vakansii/nochnoj-prodavec-na-vykladku-46166921.html
-48843195,Сотрудник ресторана,от 65 000 Руб,https://mo.superjob.ru/vakansii/sotrudnik-restorana-48843195.html
-48859792,Доставщик/велокурьер,до 149 000 Руб,https://mo.superjob.ru/vakansii/dostavschik-48859792.html
-46873347,Курьер пеший,от 100 000 Руб,https://mo.superjob.ru/vakansii/kurer-peshij-46873347.html
-47864182,Сотрудник склада,от 355 Руб,https://mo.superjob.ru/vakansii/sotrudnik-sklada-47864182.html
-48898968,"Оператор налива, слива химических веществ",от 45 000 Руб,https://mo.superjob.ru/vakansii/operator-naliva-48898968.html
-48157903,Водитель туристического автобуса,104 000 — 130 000 Руб,https://mo.superjob.ru/vakansii/voditel-turisticheskogo-avtobusa-48157903.html
-46134507,Оператор-программист металлообрабатывающих станков (токарных) с ЧПУ,от 100 000 Руб,https://mo.superjob.ru/vakansii/operator-programmist-metalloobrabatyvayuschih-stankov-46134507.html
-48355984,Почтальон,26 000 — 31 000 Руб,https://mo.superjob.ru/vakansii/pochtalon-48355984.html
-48986080,Водитель автобуса (категории D),от 80 000 Руб,https://mo.superjob.ru/vakansii/voditel-avtobusa-48986080.html
-48761961,Повар,от 80 000 Руб,https://mo.superjob.ru/vakansii/povar-48761961.html
-47632757,Товаровед,от 44 000 Руб,https://mo.superjob.ru/vakansii/tovaroved-47632757.html
+48986080,Водитель автобуса (категории D),80 000 Руб,https://mo.superjob.ru/vakansii/voditel-avtobusa-48986080.html
+47632757,Товаровед,44 000 Руб,https://mo.superjob.ru/vakansii/tovaroved-47632757.html
 44675374,Кухонный работник,50 000 Руб,https://mo.superjob.ru/vakansii/kuhonnyj-rabotnik-44675374.html
-47544794,Менеджер торгового отдела,от 80 900 Руб,https://mo.superjob.ru/vakansii/menedzher-torgovogo-otdela-47544794.html
-47451354,Комплектовщик онлайн-заказов,до 84 000 Руб,https://mo.superjob.ru/vakansii/komplektovschik-onlajn-zakazov-47451354.html
-48737569,Механик,от 100 000 Руб,https://mo.superjob.ru/vakansii/mehanik-48737569.html
-47579589,Продавец-консультант,от 58 500 Руб,https://mo.superjob.ru/vakansii/prodavec-konsultant-47579589.html
-47606830,Менеджер сектора касс,от 80 900 Руб,https://mo.superjob.ru/vakansii/menedzher-sektora-kass-47606830.html
-47438968,Кассир-консультант,от 55 350 Руб,https://mo.superjob.ru/vakansii/kassir-konsultant-47438968.html
-47836999,Водитель погрузчика,от 77 400 Руб,https://mo.superjob.ru/vakansii/voditel-pogruzchika-47836999.html
-48010647,Специалист по продажам проектов,от 70 800 Руб,https://mo.superjob.ru/vakansii/specialist-po-prodazham-proektov-48010647.html
-47451747,Менеджер склада (складские операции),от 80 900 Руб,https://mo.superjob.ru/vakansii/menedzher-sklada-47451747.html
-43869555,Врач-терапевт (Фрязино),120 000 — 130 000 Руб,https://mo.superjob.ru/vakansii/vrach-terapevt-43869555.html
-43222908,"Заточник, механик деревообрабатывающего оборудования",от 70 000 Руб,https://mo.superjob.ru/vakansii/zatochnik-43222908.html
-45546653,Специалист по охране труда и технике безопасности,от 50 000 Руб,https://mo.superjob.ru/vakansii/specialist-po-ohrane-truda-i-tehnike-bezopasnosti-45546653.html
-48237490,Оператор-кассир АЗС,65 000 — 75 000 Руб,https://mo.superjob.ru/vakansii/operator-kassir-azs-48237490.html
-48904021,Повар,от 55 000 Руб,https://mo.superjob.ru/vakansii/povar-48904021.html
-47713699,Разнорабочий,от 45 000 Руб,https://mo.superjob.ru/vakansii/raznorabochij-47713699.html
-48869153,Токарь,205 000 — 220 000 Руб,https://mo.superjob.ru/vakansii/tokar-48869153.html
-48834415,Оператор колл-центра (удалённо),от 70 000 Руб,https://mo.superjob.ru/vakansii/operator-koll-centra-48834415.html
-36577705,Продавец-кассир,По договорённости и,https://mo.superjob.ru/vakansii/prodavec-kassir-36577705.html
-24818868,Водитель-курьер на машине компании,от 55 000 Руб,https://mo.superjob.ru/vakansii/voditel-kurer-na-mashine-kompanii-24818868.html
-44925268,"Врач-невропатолог, нейрофизиолог",60 000 — 80 000 Руб,https://mo.superjob.ru/vakansii/vrach-nevropatolog-44925268.html
-48639849,Продавец,1500 — 2000 Руб,https://mo.superjob.ru/vakansii/prodavec-48639849.html
-47254607,Слесарь по эксплуатации и ремонту газового оборудования,65 000 — 85 000 Руб,https://mo.superjob.ru/vakansii/slesar-po-ekspluatacii-i-remontu-gazovogo-oborudovaniya-47254607.html
-48684825,Продавец-консультант,от 50 000 Руб,https://mo.superjob.ru/vakansii/prodavec-konsultant-48684825.html
-47443998,Оператор колл-центра,от 28 000 Руб,https://mo.superjob.ru/vakansii/operator-koll-centra-47443998.html
-12140854,"Менеджер по работе с клиентами (новостройки, вторичный рынок жилья)",от 150 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-rabote-s-klientami-12140854.html
-48945240,Дорожный рабочий,75 000 — 100 000 Руб,https://mo.superjob.ru/vakansii/dorozhnyj-rabochij-48945240.html
-47438956,Контролер-упаковщик / Оператор производственной линии / Рабочий на производство,50 000 — 70 000 Руб,https://mo.superjob.ru/vakansii/kontroler-upakovschik-47438956.html
-48199303,Математик-стажер,от 50 000 Руб,https://mo.superjob.ru/vakansii/matematik-stazher-48199303.html
-48787568,Клирнер / Убощик,38 000 — 48 000 Руб,https://mo.superjob.ru/vakansii/klirner-48787568.html
-47875696,Товаровед,от 35 000 Руб,https://mo.superjob.ru/vakansii/tovaroved-47875696.html
-33905949,Офис-менеджер,от 30 000 Руб,https://mo.superjob.ru/vakansii/ofis-menedzher-33905949.html
-48844588,Мастер маникюра и педикюра,от 70 000 Руб,https://mo.superjob.ru/vakansii/master-manikyura-i-pedikyura-48844588.html
-47336407,Буфетчица в столовой,от 30 000 Руб,https://mo.superjob.ru/vakansii/bufetchica-v-stolovoj-47336407.html
-44903050,Врач-эндокринолог,от 60 000 Руб,https://mo.superjob.ru/vakansii/vrach-endokrinolog-44903050.html
-47628549,Кассир,47 000 — 65 000 Руб,https://mo.superjob.ru/vakansii/kassir-47628549.html
-47120009,Повар пекарь,от 45 000 Руб,https://mo.superjob.ru/vakansii/povar-pekar-47120009.html
-48792191,Уборщик / Уборщица,от 55 000 Руб,https://mo.superjob.ru/vakansii/uborschik-48792191.html
-48859692,Пеший курьер,до 146 000 Руб,https://mo.superjob.ru/vakansii/peshij-kurer-48859692.html
-48655989,Комплектовщик,от 55 000 Руб,https://mo.superjob.ru/vakansii/komplektovschik-48655989.html
-48615882,Менеджер склада,от 80 900 Руб,https://mo.superjob.ru/vakansii/menedzher-sklada-48615882.html
-47847886,Врач-офтальмолог,от 100 000 Руб,https://mo.superjob.ru/vakansii/vrach-oftalmolog-47847886.html
-48144765,Работник торгового зала,50 000 — 70 000 Руб,https://mo.superjob.ru/vakansii/rabotnik-torgovogo-zala-48144765.html
-43762449,Главный инженер по эксплуатации зданий и сооружений,75 000 — 100 000 Руб,https://mo.superjob.ru/vakansii/glavnyj-inzhener-po-ekspluatacii-zdanij-i-sooruzhenij-43762449.html
-47664511,Охранник-оператор видеонаблюдения,от 3000 Руб,https://mo.superjob.ru/vakansii/ohrannik-operator-videonablyudeniya-47664511.html
-47206366,Инженер-проектировщик ХС,По договорённости и,https://mo.superjob.ru/vakansii/inzhener-proektirovschik-hs-47206366.html
-49042703,Рабочий по заправке хладагента,от 160 000 Руб,https://mo.superjob.ru/vakansii/rabochij-po-zapravke-hladagenta-49042703.html
-47451511,Доставщик/Пеший курьер,до 132 000 Руб,https://mo.superjob.ru/vakansii/dostavschik-47451511.html
-43011811,Повар-универсал в ресторан,60 000 — 70 000 Руб,https://mo.superjob.ru/vakansii/povar-universal-v-restoran-43011811.html
-45856151,Слесарь / Рабочий на производство (обучаем),от 50 000 Руб,https://mo.superjob.ru/vakansii/slesar-45856151.html
-48943546,Подсобный рабочий,90 000 — 120 000 Руб,https://mo.superjob.ru/vakansii/podsobnyj-rabochij-48943546.html
-48943668,Разнорабочий,90 000 — 120 000 Руб,https://mo.superjob.ru/vakansii/raznorabochij-48943668.html
-48944357,Монтажник,от 90 000 Руб,https://mo.superjob.ru/vakansii/montazhnik-48944357.html
-46341801,Менеджер по продажам страховых продуктов,от 10 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-prodazham-strahovyh-produktov-46341801.html
-48181037,Помощник экономиста,от 50 000 Руб,https://mo.superjob.ru/vakansii/pomoschnik-ekonomista-48181037.html
-37150086,Специалист по страхованию. Страховой агент,от 50 000 Руб,https://mo.superjob.ru/vakansii/specialist-po-strahovaniyu-37150086.html
-48448046,Колорист,от 45 000 Руб,https://mo.superjob.ru/vakansii/kolorist-48448046.html
-46911072,Менеджер по страхованию,от 50 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-strahovaniyu-46911072.html
-46385855,Фельдшер (предрейсовые осмотры и первая медицинская помощь),от 45 000 Руб,https://mo.superjob.ru/vakansii/feldsher-46385855.html
-48197894,Младший экономист,от 50 000 Руб,https://mo.superjob.ru/vakansii/mladshij-ekonomist-48197894.html
-47231846,Мойщик посуды,от 30 000 Руб,https://mo.superjob.ru/vakansii/mojschik-posudy-47231846.html
-48199156,Экономист-стажер,от 50 000 Руб,https://mo.superjob.ru/vakansii/ekonomist-stazher-48199156.html
-33906909,Страховой агент,от 30 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-agent-33906909.html
-48467849,Повар,от 35 000 Руб,https://mo.superjob.ru/vakansii/povar-48467849.html
-46417945,Уборщица,от 30 000 Руб,https://mo.superjob.ru/vakansii/uborschica-46417945.html
-48841581,Методист по созданию образовательных программ,от 45 000 Руб,https://mo.superjob.ru/vakansii/metodist-po-sozdaniyu-obrazovatelnyh-programm-48841581.html
-48013454,Контролёр склада,от 41 379 Руб,https://mo.superjob.ru/vakansii/kontroljor-sklada-48013454.html
-47687317,Бухгалтер,от 70 000 Руб,https://mo.superjob.ru/vakansii/buhgalter-47687317.html
-44551204,Повар мангала,70 000 — 80 000 Руб,https://mo.superjob.ru/vakansii/povar-mangala-44551204.html
-45235422,Контролер,от 38 000 Руб,https://mo.superjob.ru/vakansii/kontroler-45235422.html
-47014154,Сантехник,33 900 — 35 000 Руб,https://mo.superjob.ru/vakansii/santehnik-47014154.html
-47284384,Специалист по приему алкоголя,от 47 460 Руб,https://mo.superjob.ru/vakansii/specialist-po-priemu-alkogolya-47284384.html
-48743812,Повар-универсал в ресторан,до 183 000 Руб,https://mo.superjob.ru/vakansii/povar-universal-v-restoran-48743812.html
-48703283,Повар-блинопек,от 65 000 Руб,https://mo.superjob.ru/vakansii/povar-blinopek-48703283.html
-48652709,Кладовщик,от 53 000 Руб,https://mo.superjob.ru/vakansii/kladovschik-48652709.html
-47941961,Специалист по выкладке товара,от 68 000 Руб,https://mo.superjob.ru/vakansii/specialist-po-vykladke-tovara-47941961.html
-48856896,Повар-универсал,до 183 000 Руб,https://mo.superjob.ru/vakansii/povar-universal-48856896.html
-48024949,Продавец-кассир,от 65 000 Руб,https://mo.superjob.ru/vakansii/prodavec-kassir-48024949.html
-48428610,Повар,от 65 000 Руб,https://mo.superjob.ru/vakansii/povar-48428610.html
-48997088,Сборщик-упаковщик,от 55 000 Руб,https://mo.superjob.ru/vakansii/sborschik-upakovschik-48997088.html
-48484871,Уборщица / Уборщик в ресторан,от 55 000 Руб,https://mo.superjob.ru/vakansii/uborschica-48484871.html
-32251663,Пекарь (ул. Дзержинского),от 42 000 Руб,https://mo.superjob.ru/vakansii/pekar-32251663.html
-48857067,Водитель-курьер,до 131 000 Руб,https://mo.superjob.ru/vakansii/voditel-kurer-48857067.html
-48760025,Повар в цех (в дневную смену),81 500 — 113 500 Руб,https://mo.superjob.ru/vakansii/povar-v-ceh-48760025.html
-48440325,Повар в ресторан быстрого питания,от 70 000 Руб,https://mo.superjob.ru/vakansii/povar-v-restoran-bystrogo-pitaniya-48440325.html
-47120011,Повар-пиццамейкер,от 36 000 Руб,https://mo.superjob.ru/vakansii/povar-piccamejker-47120011.html
-48654021,Водитель,от 60 000 Руб,https://mo.superjob.ru/vakansii/voditel-48654021.html
-48792206,Работник ресторана,от 55 000 Руб,https://mo.superjob.ru/vakansii/rabotnik-restorana-48792206.html
-47450398,Кладовщик-сборщик заказов,до 84 000 Руб,https://mo.superjob.ru/vakansii/kladovschik-sborschik-zakazov-47450398.html
-47450645,Сборщик заказов,до 84 000 Руб,https://mo.superjob.ru/vakansii/sborschik-zakazov-47450645.html
-48391937,Курьер,80 000 — 130 000 Руб,https://mo.superjob.ru/vakansii/kurer-48391937.html
-49011461,Оператор call-центра (входящие звонки),до 50 000 Руб,https://mo.superjob.ru/vakansii/operator-call-centra-49011461.html
-47813329,Работник торгового зала,от 60 000 Руб,https://mo.superjob.ru/vakansii/rabotnik-torgovogo-zala-47813329.html
-48993378,Врач-ВОП,По договорённости и,https://mo.superjob.ru/vakansii/vrach-vop-48993378.html
-46875832,Курьер пеший,от 100 000 Руб,https://mo.superjob.ru/vakansii/kurer-peshij-46875832.html
-49037250,"Рабочий на производство и склад, комплектовщик, упаковщица, оператор линии, разнорабочий 5/2",48 000 — 60 000 Руб,https://mo.superjob.ru/vakansii/rabochij-na-proizvodstvo-i-sklad-49037250.html
-47447365,Менеджер интернет-магазина,от 80 900 Руб,https://mo.superjob.ru/vakansii/menedzher-internet-magazina-47447365.html
-48943295,Стропальщик,90 000 — 120 000 Руб,https://mo.superjob.ru/vakansii/stropalschik-48943295.html
-47553012,Преподаватель по охране труда,50 000 — 60 000 Руб,https://mo.superjob.ru/vakansii/prepodavatel-po-ohrane-truda-47553012.html
-46306831,Специалист по страхованию,от 10 000 Руб,https://mo.superjob.ru/vakansii/specialist-po-strahovaniyu-46306831.html
-48195337,Страховой представитель / Агент,от 35 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-predstavitel-48195337.html
-47590531,Менеджер по страхованию,от 10 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-strahovaniyu-47590531.html
-46306835,Страховой агент,от 10 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-agent-46306835.html
-49030134,Онлайн-продавец,от 30 000 Руб,https://mo.superjob.ru/vakansii/onlajn-prodavec-49030134.html
-29175217,Страховой консультант,от 30 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-konsultant-29175217.html
-31128233,Оператор call-центра в клинике/менеджер по работе с клиентами,от 32 000 Руб,https://mo.superjob.ru/vakansii/operator-call-centra-v-klinike-31128233.html
-48870354,Контент-менеджер,от 28 800 Руб,https://mo.superjob.ru/vakansii/kontent-menedzher-48870354.html
-46163940,Инженер-измеритель испытательной лаборатории СОУТ,По договорённости и,https://mo.superjob.ru/vakansii/inzhener-izmeritel-ispytatelnoj-laboratorii-sout-46163940.html
-48999574,Оператор call-центра (исходящие звонки),от 32 650 Руб,https://mo.superjob.ru/vakansii/operator-call-centra-48999574.html
-47116456,Страховой агент,от 10 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-agent-47116456.html
-48717072,Инженер по водно-химическому режиму,от 40 000 Руб,https://mo.superjob.ru/vakansii/inzhener-po-vodno-himicheskomu-rezhimu-48717072.html
-44873864,Специалист по продажам в отдел телемаркетинга,от 45 000 Руб,https://mo.superjob.ru/vakansii/specialist-po-prodazham-v-otdel-telemarketinga-44873864.html
-44392942,Помощник повара в столовую,от 30 000 Руб,https://mo.superjob.ru/vakansii/pomoschnik-povara-v-stolovuyu-44392942.html
-48924841,Разнорабочий,90 000 — 120 000 Руб,https://mo.superjob.ru/vakansii/raznorabochij-48924841.html
-48926505,Монтажник,90 000 — 120 000 Руб,https://mo.superjob.ru/vakansii/montazhnik-48926505.html
-48935070,Разнорабочий,90 000 — 120 000 Руб,https://mo.superjob.ru/vakansii/raznorabochij-48935070.html
-48943174,Стропальщик,от 90 000 Руб,https://mo.superjob.ru/vakansii/stropalschik-48943174.html
+48144765,Работник торгового зала,50 000 - 70 000 Руб,https://mo.superjob.ru/vakansii/rabotnik-torgovogo-zala-48144765.html
+43762449,Главный инженер по эксплуатации зданий и сооружений,75 000 - 100 000 Руб,https://mo.superjob.ru/vakansii/glavnyj-inzhener-po-ekspluatacii-zdanij-i-sooruzhenij-43762449.html
+47206366,Инженер-проектировщик ХС, Не указано,https://mo.superjob.ru/vakansii/inzhener-proektirovschik-hs-47206366.html
+47664511,Охранник-оператор видеонаблюдения,3000 Руб,https://mo.superjob.ru/vakansii/ohrannik-operator-videonablyudeniya-47664511.html
+48229001,Программист наладчик токарного ЧПУ,90 000 Руб,https://mo.superjob.ru/vakansii/programmist-naladchik-tokarnogo-chpu-48229001.html
+31444162,"Укладчик-упаковщик, упаковщик",75 000 Руб,https://mo.superjob.ru/vakansii/ukladchik-upakovschik-31444162.html
+46624736,"Горничная, уборщица",28 000 Руб,https://mo.superjob.ru/vakansii/gornichnaya-46624736.html
+47114270,Бухгалтер,50 000 Руб,https://mo.superjob.ru/vakansii/buhgalter-47114270.html
+48843243,Продавец-консультант / Оптик / Оптометрист,40 000 Руб,https://mo.superjob.ru/vakansii/prodavec-konsultant-48843243.html
+48337118,Инженер слаботочных систем,35 000 Руб,https://mo.superjob.ru/vakansii/inzhener-slabotochnyh-sistem-48337118.html
+48420454,Токарь-фрезеровщик,100 000 Руб,https://mo.superjob.ru/vakansii/tokar-frezerovschik-48420454.html
+48420450,Менеджер по продажам новостроек,70 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-prodazham-novostroek-48420450.html
+48963093,Военнослужащий по контракту (СВО),275 000 Руб,https://mo.superjob.ru/vakansii/voennosluzhaschij-po-kontraktu-48963093.html
+48928320,Электромонтажник по СС и ЭО 4 разряда,80 000 Руб,https://mo.superjob.ru/vakansii/elektromontazhnik-po-ss-i-eo-4-razryada-48928320.html
+47526549,Рабочий цеха,50 000 - 70 000 Руб,https://mo.superjob.ru/vakansii/rabochij-ceha-47526549.html
+40192838,Водитель микроавтобуса категории D,50 000 Руб,https://mo.superjob.ru/vakansii/voditel-mikroavtobusa-kategorii-d-40192838.html
+36308565,Уборщик служебных помещений,25 000 Руб,https://mo.superjob.ru/vakansii/uborschik-sluzhebnyh-pomeschenij-36308565.html
+48020848,Сварщик на ПА,132 000 - 145 000 Руб,https://mo.superjob.ru/vakansii/svarschik-na-pa-48020848.html
+48844851,Водитель-автоняня (сопровождение детей),70 000 Руб,https://mo.superjob.ru/vakansii/voditel-avtonyanya-48844851.html
+48846597,Водитель категории Е,160 000 - 200 000 Руб,https://mo.superjob.ru/vakansii/voditel-kategorii-e-48846597.html
+48610477,Слесарь механосборочных работ,45 000 Руб,https://mo.superjob.ru/vakansii/slesar-mehanosborochnyh-rabot-48610477.html
+27164043,Мастер по обслуживанию домофонов средств связи видеонаблюдения,50 000 Руб,https://mo.superjob.ru/vakansii/master-po-obsluzhivaniyu-domofonov-sredstv-svyazi-videonablyudeniya-27164043.html
+48024573,Обивщик мягкой мебели,90 000 Руб,https://mo.superjob.ru/vakansii/obivschik-myagkoj-mebeli-48024573.html
+49012574,Администратор магазина,35 000 - 55 000 Руб,https://mo.superjob.ru/vakansii/administrator-magazina-49012574.html
+47613080,Каменщик,100 000 Руб,https://mo.superjob.ru/vakansii/kamenschik-47613080.html
+48850462,Фармацевт-провизор,75 000 - 95 000 Руб,https://mo.superjob.ru/vakansii/farmacevt-provizor-48850462.html
+45052987,Уборщица,30 000 Руб,https://mo.superjob.ru/vakansii/uborschica-45052987.html
+43509215,Врач оториноларинголог,150 000 Руб,https://mo.superjob.ru/vakansii/vrach-otorinolaringolog-43509215.html
+47278673,Отоларинголог,60 000 Руб,https://mo.superjob.ru/vakansii/otolaringolog-47278673.html
+47536763,Водитель категории С,100 000 Руб,https://mo.superjob.ru/vakansii/voditel-kategorii-s-47536763.html
+43016856,Оптометрист консультант / оптик консультант,50 000 - 60 000 Руб,https://mo.superjob.ru/vakansii/optometrist-konsultant-43016856.html
+47825926,Выездной сервисный инженер,90 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/vyezdnoj-servisnyj-inzhener-47825926.html
+48666800,Заведующий аптекой,80 000 Руб,https://mo.superjob.ru/vakansii/zaveduyuschij-aptekoj-48666800.html
+48985010,Специалист складского учета,35 000 Руб,https://mo.superjob.ru/vakansii/specialist-skladskogo-ucheta-48985010.html
+48985736,Фрезеровщик,205 000 - 215 000 Руб,https://mo.superjob.ru/vakansii/frezerovschik-48985736.html
+46644787,Оператор послепечатного участка,25 000 Руб,https://mo.superjob.ru/vakansii/operator-poslepechatnogo-uchastka-46644787.html
+47630507,Продавец-консультант,42 000 - 60 000 Руб,https://mo.superjob.ru/vakansii/prodavec-konsultant-47630507.html
+49040894,Рабочий по ремонту холодильных камер (без опыта),160 000 Руб,https://mo.superjob.ru/vakansii/rabochij-po-remontu-holodilnyh-kamer-49040894.html
+47451511,Доставщик/Пеший курьер,132 000 Руб,https://mo.superjob.ru/vakansii/dostavschik-47451511.html
+46299357,Почтальон,18 000 - 21 000 Руб,https://mo.superjob.ru/vakansii/pochtalon-46299357.html
+47029334,Мойщик посуды в столовую,30 000 Руб,https://mo.superjob.ru/vakansii/mojschik-posudy-v-stolovuyu-47029334.html
+48616064,Продавец-консультант,58 500 Руб,https://mo.superjob.ru/vakansii/prodavec-konsultant-48616064.html
+46166911,Продавец,66 000 Руб,https://mo.superjob.ru/vakansii/prodavec-46166911.html
+48654021,Водитель,60 000 Руб,https://mo.superjob.ru/vakansii/voditel-48654021.html
+48792191,Уборщик / Уборщица,55 000 Руб,https://mo.superjob.ru/vakansii/uborschik-48792191.html
+48898968,"Оператор налива, слива химических веществ",45 000 Руб,https://mo.superjob.ru/vakansii/operator-naliva-48898968.html
+46134507,Оператор-программист металлообрабатывающих станков (токарных) с ЧПУ,100 000 Руб,https://mo.superjob.ru/vakansii/operator-programmist-metalloobrabatyvayuschih-stankov-46134507.html
+49042703,Рабочий по заправке хладагента,160 000 Руб,https://mo.superjob.ru/vakansii/rabochij-po-zapravke-hladagenta-49042703.html
+48985950,Работник химчистки,3500 - 5000 Руб,https://mo.superjob.ru/vakansii/rabotnik-himchistki-48985950.html
+47569758,Менеджер по продажам,70 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-prodazham-47569758.html
+47701412,Аналитик,50 000 Руб,https://mo.superjob.ru/vakansii/analitik-47701412.html
+48343194,Водитель категории E,180 000 Руб,https://mo.superjob.ru/vakansii/voditel-kategorii-e-48343194.html
+47571461,Инструктор по вождению,35 640 Руб,https://mo.superjob.ru/vakansii/instruktor-po-vozhdeniyu-47571461.html
+47865034,Водитель грузового автомобиля (контейнеровоза) категории Е,150 000 - 180 000 Руб,https://mo.superjob.ru/vakansii/voditel-gruzovogo-avtomobilya-47865034.html
+44433698,Повар-пиццамейкер,40 000 - 50 000 Руб,https://mo.superjob.ru/vakansii/povar-piccamejker-44433698.html
+48449842,Уборщица-посудомойщица / Уборщик-посудомойщик,36 000 - 42 000 Руб,https://mo.superjob.ru/vakansii/uborschica-posudomojschica-48449842.html
+48653104,Водитель скорой помощи,48 000 Руб,https://mo.superjob.ru/vakansii/voditel-skoroj-pomoschi-48653104.html
+41604699,Продавец-кассир (м. Багратионовская), Не указано,https://mo.superjob.ru/vakansii/prodavec-kassir-41604699.html
+36771909,Упаковщица-комплектовщица,25 000 Руб,https://mo.superjob.ru/vakansii/upakovschica-komplektovschica-36771909.html
+40808911,Слесарь-сантехник,50 000 Руб,https://mo.superjob.ru/vakansii/slesar-santehnik-40808911.html
+48654555,Водитель категории Е / Дальнобойщик,110 000 Руб,https://mo.superjob.ru/vakansii/voditel-kategorii-e-48654555.html
+48199314,Математик,50 000 Руб,https://mo.superjob.ru/vakansii/matematik-48199314.html
+49001894,Контролер-упаковщик / Оператор производственной линии / Рабочий на производство,50 000 - 70 000 Руб,https://mo.superjob.ru/vakansii/kontroler-upakovschik-49001894.html
+47999612,Медицинский оптик-оптометрист,60 000 - 100 000 Руб,https://mo.superjob.ru/vakansii/medicinskij-optik-optometrist-47999612.html
+48880043,Клинер / Уборщик,38 000 - 48 000 Руб,https://mo.superjob.ru/vakansii/kliner-48880043.html
+46450087,Мастер маникюра и педикюра,100 000 Руб,https://mo.superjob.ru/vakansii/master-manikyura-i-pedikyura-46450087.html
+48747257,Продавец,45 000 - 60 000 Руб,https://mo.superjob.ru/vakansii/prodavec-48747257.html
+42971610,"Швея, раскройщик",60 000 - 80 000 Руб,https://mo.superjob.ru/vakansii/shveya-42971610.html
+47880775,"Водитель категории C, E",90 000 Руб,https://mo.superjob.ru/vakansii/voditel-kategorii-c-47880775.html
+48467056,Уборщик офисных помещений,25 000 Руб,https://mo.superjob.ru/vakansii/uborschik-ofisnyh-pomeschenij-48467056.html
+47130540,Фармацевт,65 000 Руб,https://mo.superjob.ru/vakansii/farmacevt-47130540.html
+42971619,Страховой консультант Серебряные Пруды,20 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-konsultant-serebryanye-prudy-42971619.html
+48143998,Провизор / Фармацевт в аптеку,72 000 Руб,https://mo.superjob.ru/vakansii/provizor-48143998.html
+49008923,Подсобный рабочий,90 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/podsobnyj-rabochij-49008923.html
+48661587,Оператор (диспетчер) весового контроля,3000 Руб,https://mo.superjob.ru/vakansii/operator-48661587.html
+47070055,Слесарь по контрольно-измерительным приборам и автоматике,49 000 - 56 000 Руб,https://mo.superjob.ru/vakansii/slesar-po-kontrolno-izmeritelnym-priboram-i-avtomatike-47070055.html
+45766707,Инженер-проектировщик сетей газораспределения и газопотребления,60 000 Руб,https://mo.superjob.ru/vakansii/inzhener-proektirovschik-setej-gazoraspredeleniya-i-gazopotrebleniya-45766707.html
+48964848,Шеф-повар,55 000 Руб,https://mo.superjob.ru/vakansii/shef-povar-48964848.html
+31441713,"Наладчик оборудования, механик, техник",100 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/naladchik-oborudovaniya-31441713.html
+47959461,Почтальон мобильной группы,53 000 - 63 000 Руб,https://mo.superjob.ru/vakansii/pochtalon-mobilnoj-gruppy-47959461.html
+48220224,Мастер котельной,5000 Руб,https://mo.superjob.ru/vakansii/master-kotelnoj-48220224.html
+48889801,Преподаватель онлайн,40 000 Руб,https://mo.superjob.ru/vakansii/prepodavatel-onlajn-48889801.html
+47276984,Дерматолог,60 000 Руб,https://mo.superjob.ru/vakansii/dermatolog-47276984.html
+43138316,Врач уролог-андролог,80 000 Руб,https://mo.superjob.ru/vakansii/vrach-urolog-androlog-43138316.html
+48666783,Провизор/Фармацевт,70 000 Руб,https://mo.superjob.ru/vakansii/provizor-48666783.html
+48799041,Шлифовщик,205 000 - 215 000 Руб,https://mo.superjob.ru/vakansii/shlifovschik-48799041.html
+46898319,Специалист по пожарной безопасности,28 250 Руб,https://mo.superjob.ru/vakansii/specialist-po-pozharnoj-bezopasnosti-46898319.html
+47450833,Велокурьер,162 000 Руб,https://mo.superjob.ru/vakansii/velokurer-47450833.html
+48652709,Кладовщик,53 000 Руб,https://mo.superjob.ru/vakansii/kladovschik-48652709.html
+47941961,Специалист по выкладке товара,68 000 Руб,https://mo.superjob.ru/vakansii/specialist-po-vykladke-tovara-47941961.html
+47029325,Повар в столовую школьную,35 000 Руб,https://mo.superjob.ru/vakansii/povar-v-stolovuyu-shkolnuyu-47029325.html
+46166921,Ночной продавец на выкладку,70 000 Руб,https://mo.superjob.ru/vakansii/nochnoj-prodavec-na-vykladku-46166921.html
+48792206,Работник ресторана,55 000 Руб,https://mo.superjob.ru/vakansii/rabotnik-restorana-48792206.html
+43011811,Повар-универсал в ресторан,60 000 - 70 000 Руб,https://mo.superjob.ru/vakansii/povar-universal-v-restoran-43011811.html
+45856151,Слесарь / Рабочий на производство (обучаем),50 000 Руб,https://mo.superjob.ru/vakansii/slesar-45856151.html
+48391937,Курьер,80 000 - 130 000 Руб,https://mo.superjob.ru/vakansii/kurer-48391937.html
+47813329,Работник торгового зала,60 000 Руб,https://mo.superjob.ru/vakansii/rabotnik-torgovogo-zala-47813329.html
+48993378,Врач-ВОП, Не указано,https://mo.superjob.ru/vakansii/vrach-vop-48993378.html
+49037250,"Рабочий на производство и склад, комплектовщик, упаковщица, оператор линии, разнорабочий 5/2",48 000 - 60 000 Руб,https://mo.superjob.ru/vakansii/rabochij-na-proizvodstvo-i-sklad-49037250.html
+47359889,Водитель-экспедитор,90 000 Руб,https://mo.superjob.ru/vakansii/voditel-ekspeditor-47359889.html
+48811038,Токарь,205 000 - 215 000 Руб,https://mo.superjob.ru/vakansii/tokar-48811038.html
+48036689,Сборщик заказов,84 000 Руб,https://mo.superjob.ru/vakansii/sborschik-zakazov-48036689.html
+43222908,"Заточник, механик деревообрабатывающего оборудования",70 000 Руб,https://mo.superjob.ru/vakansii/zatochnik-43222908.html
+48024949,Продавец-кассир,65 000 Руб,https://mo.superjob.ru/vakansii/prodavec-kassir-48024949.html
+48864104,Повар-кассир,65 000 Руб,https://mo.superjob.ru/vakansii/povar-kassir-48864104.html
+48428610,Повар,65 000 Руб,https://mo.superjob.ru/vakansii/povar-48428610.html
+48997088,Сборщик-упаковщик,55 000 Руб,https://mo.superjob.ru/vakansii/sborschik-upakovschik-48997088.html
+48484871,Уборщица / Уборщик в ресторан,55 000 Руб,https://mo.superjob.ru/vakansii/uborschica-48484871.html
+32251663,Пекарь (ул. Дзержинского),42 000 Руб,https://mo.superjob.ru/vakansii/pekar-32251663.html
+48760025,Повар в цех (в дневную смену),81 500 - 113 500 Руб,https://mo.superjob.ru/vakansii/povar-v-ceh-48760025.html
+47120011,Повар-пиццамейкер,36 000 Руб,https://mo.superjob.ru/vakansii/povar-piccamejker-47120011.html
+48237490,Оператор-кассир АЗС,65 000 - 75 000 Руб,https://mo.superjob.ru/vakansii/operator-kassir-azs-48237490.html
+43869555,Врач-терапевт (Фрязино),120 000 - 130 000 Руб,https://mo.superjob.ru/vakansii/vrach-terapevt-43869555.html
+48904021,Повар,55 000 Руб,https://mo.superjob.ru/vakansii/povar-48904021.html
+47713699,Разнорабочий,45 000 Руб,https://mo.superjob.ru/vakansii/raznorabochij-47713699.html
+48869153,Токарь,205 000 - 220 000 Руб,https://mo.superjob.ru/vakansii/tokar-48869153.html
+48834415,Оператор колл-центра (удалённо),70 000 Руб,https://mo.superjob.ru/vakansii/operator-koll-centra-48834415.html
+36577705,Продавец-кассир, Не указано,https://mo.superjob.ru/vakansii/prodavec-kassir-36577705.html
+24818868,Водитель-курьер на машине компании,55 000 Руб,https://mo.superjob.ru/vakansii/voditel-kurer-na-mashine-kompanii-24818868.html
+44925268,"Врач-невропатолог, нейрофизиолог",60 000 - 80 000 Руб,https://mo.superjob.ru/vakansii/vrach-nevropatolog-44925268.html
+48639849,Продавец,1500 - 2000 Руб,https://mo.superjob.ru/vakansii/prodavec-48639849.html
+47254607,Слесарь по эксплуатации и ремонту газового оборудования,65 000 - 85 000 Руб,https://mo.superjob.ru/vakansii/slesar-po-ekspluatacii-i-remontu-gazovogo-oborudovaniya-47254607.html
+48684825,Продавец-консультант,50 000 Руб,https://mo.superjob.ru/vakansii/prodavec-konsultant-48684825.html
+47443998,Оператор колл-центра,28 000 Руб,https://mo.superjob.ru/vakansii/operator-koll-centra-47443998.html
+48944357,Монтажник,90 000 Руб,https://mo.superjob.ru/vakansii/montazhnik-48944357.html
+12140854,"Менеджер по работе с клиентами (новостройки, вторичный рынок жилья)",150 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-rabote-s-klientami-12140854.html
+41421758,Начальник отдела МТО,70 000 - 90 000 Руб,https://mo.superjob.ru/vakansii/nachalnik-otdela-mto-41421758.html
+48740254,Врач-педиатр,100 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/vrach-pediatr-48740254.html
+48763483,Продавец продовольственных товаров,50 000 Руб,https://mo.superjob.ru/vakansii/prodavec-prodovolstvennyh-tovarov-48763483.html
+47438956,Контролер-упаковщик / Оператор производственной линии / Рабочий на производство,50 000 - 70 000 Руб,https://mo.superjob.ru/vakansii/kontroler-upakovschik-47438956.html
+48199303,Математик-стажер,50 000 Руб,https://mo.superjob.ru/vakansii/matematik-stazher-48199303.html
+48787568,Клирнер / Убощик,38 000 - 48 000 Руб,https://mo.superjob.ru/vakansii/klirner-48787568.html
+33905949,Офис-менеджер,30 000 Руб,https://mo.superjob.ru/vakansii/ofis-menedzher-33905949.html
+48266728,Кладовщик,35 000 Руб,https://mo.superjob.ru/vakansii/kladovschik-48266728.html
+44903050,Врач-эндокринолог,60 000 Руб,https://mo.superjob.ru/vakansii/vrach-endokrinolog-44903050.html
+48844588,Мастер маникюра и педикюра,70 000 Руб,https://mo.superjob.ru/vakansii/master-manikyura-i-pedikyura-48844588.html
+45173515,Заведующий производством, Не указано,https://mo.superjob.ru/vakansii/zaveduyuschij-proizvodstvom-45173515.html
+47628549,Кассир,47 000 - 65 000 Руб,https://mo.superjob.ru/vakansii/kassir-47628549.html
+48859692,Пеший курьер,146 000 Руб,https://mo.superjob.ru/vakansii/peshij-kurer-48859692.html
+46858298,Курьер пеший,100 000 Руб,https://mo.superjob.ru/vakansii/kurer-peshij-46858298.html
+48604651,Менеджер сектора касс,80 900 Руб,https://mo.superjob.ru/vakansii/menedzher-sektora-kass-48604651.html
+48440325,Повар в ресторан быстрого питания,70 000 Руб,https://mo.superjob.ru/vakansii/povar-v-restoran-bystrogo-pitaniya-48440325.html
+47120009,Повар пекарь,45 000 Руб,https://mo.superjob.ru/vakansii/povar-pekar-47120009.html
+47834323,Врач-офтальмолог,100 000 Руб,https://mo.superjob.ru/vakansii/vrach-oftalmolog-47834323.html
+48909580,Дорожный рабочий,75 000 - 100 000 Руб,https://mo.superjob.ru/vakansii/dorozhnyj-rabochij-48909580.html
+34547872,Водитель высотного погрузчика / электроштабелера (Софрино),75 000 Руб,https://mo.superjob.ru/vakansii/voditel-vysotnogo-pogruzchika-34547872.html
+47029346,Мойщик котлов в столовую,30 000 Руб,https://mo.superjob.ru/vakansii/mojschik-kotlov-v-stolovuyu-47029346.html
+48913161,Почтальон,23 000 - 27 000 Руб,https://mo.superjob.ru/vakansii/pochtalon-48913161.html
+33466029,Упаковщик-комплектовщик,55 000 Руб,https://mo.superjob.ru/vakansii/upakovschik-komplektovschik-33466029.html
+45546653,Специалист по охране труда и технике безопасности,50 000 Руб,https://mo.superjob.ru/vakansii/specialist-po-ohrane-truda-i-tehnike-bezopasnosti-45546653.html
+48801377,Приемщик заказов / Продавец-консультант,1400 Руб,https://mo.superjob.ru/vakansii/priemschik-zakazov-48801377.html
+48943546,Подсобный рабочий,90 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/podsobnyj-rabochij-48943546.html
+48943668,Разнорабочий,90 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/raznorabochij-48943668.html
+48181037,Помощник экономиста,50 000 Руб,https://mo.superjob.ru/vakansii/pomoschnik-ekonomista-48181037.html
+46341801,Менеджер по продажам страховых продуктов,10 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-prodazham-strahovyh-produktov-46341801.html
+37150086,Специалист по страхованию. Страховой агент,50 000 Руб,https://mo.superjob.ru/vakansii/specialist-po-strahovaniyu-37150086.html
+48448046,Колорист,45 000 Руб,https://mo.superjob.ru/vakansii/kolorist-48448046.html
+46911072,Менеджер по страхованию,50 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-strahovaniyu-46911072.html
+46385855,Фельдшер (предрейсовые осмотры и первая медицинская помощь),45 000 Руб,https://mo.superjob.ru/vakansii/feldsher-46385855.html
+48197894,Младший экономист,50 000 Руб,https://mo.superjob.ru/vakansii/mladshij-ekonomist-48197894.html
+48199156,Экономист-стажер,50 000 Руб,https://mo.superjob.ru/vakansii/ekonomist-stazher-48199156.html
+47875696,Товаровед,35 000 Руб,https://mo.superjob.ru/vakansii/tovaroved-47875696.html
+33906909,Страховой агент,30 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-agent-33906909.html
+46417945,Уборщица,30 000 Руб,https://mo.superjob.ru/vakansii/uborschica-46417945.html
+48841581,Методист по созданию образовательных программ,45 000 Руб,https://mo.superjob.ru/vakansii/metodist-po-sozdaniyu-obrazovatelnyh-programm-48841581.html
+48013454,Контролёр склада,41 379 Руб,https://mo.superjob.ru/vakansii/kontroljor-sklada-48013454.html
+47336407,Буфетчица в столовой,30 000 Руб,https://mo.superjob.ru/vakansii/bufetchica-v-stolovoj-47336407.html
+47687317,Бухгалтер,70 000 Руб,https://mo.superjob.ru/vakansii/buhgalter-47687317.html
+44551204,Повар мангала,70 000 - 80 000 Руб,https://mo.superjob.ru/vakansii/povar-mangala-44551204.html
+45235422,Контролер,38 000 Руб,https://mo.superjob.ru/vakansii/kontroler-45235422.html
+47014154,Сантехник,33 900 - 35 000 Руб,https://mo.superjob.ru/vakansii/santehnik-47014154.html
+47284384,Специалист по приему алкоголя,47 460 Руб,https://mo.superjob.ru/vakansii/specialist-po-priemu-alkogolya-47284384.html
+48857067,Водитель-курьер,131 000 Руб,https://mo.superjob.ru/vakansii/voditel-kurer-48857067.html
+48441112,Помощник повара,65 000 Руб,https://mo.superjob.ru/vakansii/pomoschnik-povara-48441112.html
+47450398,Кладовщик-сборщик заказов,84 000 Руб,https://mo.superjob.ru/vakansii/kladovschik-sborschik-zakazov-47450398.html
+47451354,Комплектовщик онлайн-заказов,84 000 Руб,https://mo.superjob.ru/vakansii/komplektovschik-onlajn-zakazov-47451354.html
+48737569,Механик,100 000 Руб,https://mo.superjob.ru/vakansii/mehanik-48737569.html
+48655989,Комплектовщик,55 000 Руб,https://mo.superjob.ru/vakansii/komplektovschik-48655989.html
+48647803,Сборщик,55 000 Руб,https://mo.superjob.ru/vakansii/sborschik-48647803.html
+47438968,Кассир-консультант,55 350 Руб,https://mo.superjob.ru/vakansii/kassir-konsultant-47438968.html
+48010647,Специалист по продажам проектов,70 800 Руб,https://mo.superjob.ru/vakansii/specialist-po-prodazham-proektov-48010647.html
+47451747,Менеджер склада (складские операции),80 900 Руб,https://mo.superjob.ru/vakansii/menedzher-sklada-47451747.html
+48615882,Менеджер склада,80 900 Руб,https://mo.superjob.ru/vakansii/menedzher-sklada-48615882.html
+47864182,Сотрудник склада,355 Руб,https://mo.superjob.ru/vakansii/sotrudnik-sklada-47864182.html
+47438800,Администратор склада,68 800 Руб,https://mo.superjob.ru/vakansii/administrator-sklada-47438800.html
+47447365,Менеджер интернет-магазина,80 900 Руб,https://mo.superjob.ru/vakansii/menedzher-internet-magazina-47447365.html
+47836994,Водитель погрузчика,77 400 Руб,https://mo.superjob.ru/vakansii/voditel-pogruzchika-47836994.html
+48743812,Повар-универсал в ресторан,183 000 Руб,https://mo.superjob.ru/vakansii/povar-universal-v-restoran-48743812.html
+49048142,Продавец (ТЦ Юнимолл),66 000 Руб,https://mo.superjob.ru/vakansii/prodavec-49048142.html
+48703283,Повар-блинопек,65 000 Руб,https://mo.superjob.ru/vakansii/povar-blinopek-48703283.html
+48856896,Повар-универсал,183 000 Руб,https://mo.superjob.ru/vakansii/povar-universal-48856896.html
+47101072,Повар-сушист,60 000 - 95 000 Руб,https://mo.superjob.ru/vakansii/povar-sushist-47101072.html
+48615896,Менеджер торгового отдела,80 900 Руб,https://mo.superjob.ru/vakansii/menedzher-torgovogo-otdela-48615896.html
+48157903,Водитель туристического автобуса,104 000 - 130 000 Руб,https://mo.superjob.ru/vakansii/voditel-turisticheskogo-avtobusa-48157903.html
+46867188,Курьер пеший,100 000 Руб,https://mo.superjob.ru/vakansii/kurer-peshij-46867188.html
+48843195,Сотрудник ресторана,65 000 Руб,https://mo.superjob.ru/vakansii/sotrudnik-restorana-48843195.html
+46269853,Сотрудник ночной смены предприятия «Вкусно — и точка»,98 000 Руб,https://mo.superjob.ru/vakansii/sotrudnik-nochnoj-smeny-predpriyatiya-46269853.html
+48943295,Стропальщик,90 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/stropalschik-48943295.html
+47553012,Преподаватель по охране труда,50 000 - 60 000 Руб,https://mo.superjob.ru/vakansii/prepodavatel-po-ohrane-truda-47553012.html
+46306831,Специалист по страхованию,10 000 Руб,https://mo.superjob.ru/vakansii/specialist-po-strahovaniyu-46306831.html
+48195337,Страховой представитель / Агент,35 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-predstavitel-48195337.html
+47590531,Менеджер по страхованию,10 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-strahovaniyu-47590531.html
+46306835,Страховой агент,10 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-agent-46306835.html
+49030134,Онлайн-продавец,30 000 Руб,https://mo.superjob.ru/vakansii/onlajn-prodavec-49030134.html
+29175217,Страховой консультант,30 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-konsultant-29175217.html
+31128233,Оператор call-центра в клинике/менеджер по работе с клиентами,32 000 Руб,https://mo.superjob.ru/vakansii/operator-call-centra-v-klinike-31128233.html
+48870354,Контент-менеджер,28 800 Руб,https://mo.superjob.ru/vakansii/kontent-menedzher-48870354.html
+46163940,Инженер-измеритель испытательной лаборатории СОУТ, Не указано,https://mo.superjob.ru/vakansii/inzhener-izmeritel-ispytatelnoj-laboratorii-sout-46163940.html
+48717072,Инженер по водно-химическому режиму,40 000 Руб,https://mo.superjob.ru/vakansii/inzhener-po-vodno-himicheskomu-rezhimu-48717072.html
+44873864,Специалист по продажам в отдел телемаркетинга,45 000 Руб,https://mo.superjob.ru/vakansii/specialist-po-prodazham-v-otdel-telemarketinga-44873864.html
+49011461,Оператор call-центра (входящие звонки),50 000 Руб,https://mo.superjob.ru/vakansii/operator-call-centra-49011461.html
+48999319,Оператор call-центра (исходящие звонки),32 650 Руб,https://mo.superjob.ru/vakansii/operator-call-centra-48999319.html
+44392942,Помощник повара в столовую,30 000 Руб,https://mo.superjob.ru/vakansii/pomoschnik-povara-v-stolovuyu-44392942.html
+47116456,Страховой агент,10 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-agent-47116456.html
+48924841,Разнорабочий,90 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/raznorabochij-48924841.html
+48926505,Монтажник,90 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/montazhnik-48926505.html
+48935070,Разнорабочий,90 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/raznorabochij-48935070.html
+48943174,Стропальщик,90 000 Руб,https://mo.superjob.ru/vakansii/stropalschik-48943174.html
+_id,name,salary,url
+48898968,"Оператор налива, слива химических веществ",45 000 Руб,https://mo.superjob.ru/vakansii/operator-naliva-48898968.html
+46134507,Оператор-программист металлообрабатывающих станков (токарных) с ЧПУ,100 000 Руб,https://mo.superjob.ru/vakansii/operator-programmist-metalloobrabatyvayuschih-stankov-46134507.html
+48986080,Водитель автобуса (категории D),80 000 Руб,https://mo.superjob.ru/vakansii/voditel-avtobusa-48986080.html
+47632757,Товаровед,44 000 Руб,https://mo.superjob.ru/vakansii/tovaroved-47632757.html
+44675374,Кухонный работник,50 000 Руб,https://mo.superjob.ru/vakansii/kuhonnyj-rabotnik-44675374.html
+48144765,Работник торгового зала,50 000 - 70 000 Руб,https://mo.superjob.ru/vakansii/rabotnik-torgovogo-zala-48144765.html
+43762449,Главный инженер по эксплуатации зданий и сооружений,75 000 - 100 000 Руб,https://mo.superjob.ru/vakansii/glavnyj-inzhener-po-ekspluatacii-zdanij-i-sooruzhenij-43762449.html
+47664511,Охранник-оператор видеонаблюдения,3000 Руб,https://mo.superjob.ru/vakansii/ohrannik-operator-videonablyudeniya-47664511.html
+46624736,"Горничная, уборщица",28 000 Руб,https://mo.superjob.ru/vakansii/gornichnaya-46624736.html
+47114270,Бухгалтер,50 000 Руб,https://mo.superjob.ru/vakansii/buhgalter-47114270.html
+48843243,Продавец-консультант / Оптик / Оптометрист,40 000 Руб,https://mo.superjob.ru/vakansii/prodavec-konsultant-48843243.html
+48420454,Токарь-фрезеровщик,100 000 Руб,https://mo.superjob.ru/vakansii/tokar-frezerovschik-48420454.html
+48337118,Инженер слаботочных систем,35 000 Руб,https://mo.superjob.ru/vakansii/inzhener-slabotochnyh-sistem-48337118.html
+48420450,Менеджер по продажам новостроек,70 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-prodazham-novostroek-48420450.html
+48928320,Электромонтажник по СС и ЭО 4 разряда,80 000 Руб,https://mo.superjob.ru/vakansii/elektromontazhnik-po-ss-i-eo-4-razryada-48928320.html
+48963093,Военнослужащий по контракту (СВО),275 000 Руб,https://mo.superjob.ru/vakansii/voennosluzhaschij-po-kontraktu-48963093.html
+47526549,Рабочий цеха,50 000 - 70 000 Руб,https://mo.superjob.ru/vakansii/rabochij-ceha-47526549.html
+40192838,Водитель микроавтобуса категории D,50 000 Руб,https://mo.superjob.ru/vakansii/voditel-mikroavtobusa-kategorii-d-40192838.html
+36308565,Уборщик служебных помещений,25 000 Руб,https://mo.superjob.ru/vakansii/uborschik-sluzhebnyh-pomeschenij-36308565.html
+48020848,Сварщик на ПА,132 000 - 145 000 Руб,https://mo.superjob.ru/vakansii/svarschik-na-pa-48020848.html
+48844851,Водитель-автоняня (сопровождение детей),70 000 Руб,https://mo.superjob.ru/vakansii/voditel-avtonyanya-48844851.html
+48846597,Водитель категории Е,160 000 - 200 000 Руб,https://mo.superjob.ru/vakansii/voditel-kategorii-e-48846597.html
+48610477,Слесарь механосборочных работ,45 000 Руб,https://mo.superjob.ru/vakansii/slesar-mehanosborochnyh-rabot-48610477.html
+27164043,Мастер по обслуживанию домофонов средств связи видеонаблюдения,50 000 Руб,https://mo.superjob.ru/vakansii/master-po-obsluzhivaniyu-domofonov-sredstv-svyazi-videonablyudeniya-27164043.html
+48024573,Обивщик мягкой мебели,90 000 Руб,https://mo.superjob.ru/vakansii/obivschik-myagkoj-mebeli-48024573.html
+49012574,Администратор магазина,35 000 - 55 000 Руб,https://mo.superjob.ru/vakansii/administrator-magazina-49012574.html
+47613080,Каменщик,100 000 Руб,https://mo.superjob.ru/vakansii/kamenschik-47613080.html
+48850462,Фармацевт-провизор,75 000 - 95 000 Руб,https://mo.superjob.ru/vakansii/farmacevt-provizor-48850462.html
+45052987,Уборщица,30 000 Руб,https://mo.superjob.ru/vakansii/uborschica-45052987.html
+47278673,Отоларинголог,60 000 Руб,https://mo.superjob.ru/vakansii/otolaringolog-47278673.html
+43509215,Врач оториноларинголог,150 000 Руб,https://mo.superjob.ru/vakansii/vrach-otorinolaringolog-43509215.html
+47536763,Водитель категории С,100 000 Руб,https://mo.superjob.ru/vakansii/voditel-kategorii-s-47536763.html
+43016856,Оптометрист консультант / оптик консультант,50 000 - 60 000 Руб,https://mo.superjob.ru/vakansii/optometrist-konsultant-43016856.html
+47825926,Выездной сервисный инженер,90 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/vyezdnoj-servisnyj-inzhener-47825926.html
+48666800,Заведующий аптекой,80 000 Руб,https://mo.superjob.ru/vakansii/zaveduyuschij-aptekoj-48666800.html
+48985010,Специалист складского учета,35 000 Руб,https://mo.superjob.ru/vakansii/specialist-skladskogo-ucheta-48985010.html
+48985736,Фрезеровщик,205 000 - 215 000 Руб,https://mo.superjob.ru/vakansii/frezerovschik-48985736.html
+46644787,Оператор послепечатного участка,25 000 Руб,https://mo.superjob.ru/vakansii/operator-poslepechatnogo-uchastka-46644787.html
+48229001,Программист наладчик токарного ЧПУ,90 000 Руб,https://mo.superjob.ru/vakansii/programmist-naladchik-tokarnogo-chpu-48229001.html
+47630507,Продавец-консультант,42 000 - 60 000 Руб,https://mo.superjob.ru/vakansii/prodavec-konsultant-47630507.html
+49040894,Рабочий по ремонту холодильных камер (без опыта),160 000 Руб,https://mo.superjob.ru/vakansii/rabochij-po-remontu-holodilnyh-kamer-49040894.html
+47451511,Доставщик/Пеший курьер,132 000 Руб,https://mo.superjob.ru/vakansii/dostavschik-47451511.html
+46299357,Почтальон,18 000 - 21 000 Руб,https://mo.superjob.ru/vakansii/pochtalon-46299357.html
+48616064,Продавец-консультант,58 500 Руб,https://mo.superjob.ru/vakansii/prodavec-konsultant-48616064.html
+46166911,Продавец,66 000 Руб,https://mo.superjob.ru/vakansii/prodavec-46166911.html
+48654021,Водитель,60 000 Руб,https://mo.superjob.ru/vakansii/voditel-48654021.html
+48843195,Сотрудник ресторана,65 000 Руб,https://mo.superjob.ru/vakansii/sotrudnik-restorana-48843195.html
+47432740,Повар,35 000 Руб,https://mo.superjob.ru/vakansii/povar-47432740.html
+47206366,Инженер-проектировщик ХС, Не указано,https://mo.superjob.ru/vakansii/inzhener-proektirovschik-hs-47206366.html
+49042703,Рабочий по заправке хладагента,160 000 Руб,https://mo.superjob.ru/vakansii/rabochij-po-zapravke-hladagenta-49042703.html
+48985950,Работник химчистки,3500 - 5000 Руб,https://mo.superjob.ru/vakansii/rabotnik-himchistki-48985950.html
+47569758,Менеджер по продажам,70 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-prodazham-47569758.html
+47701412,Аналитик,50 000 Руб,https://mo.superjob.ru/vakansii/analitik-47701412.html
+48343194,Водитель категории E,180 000 Руб,https://mo.superjob.ru/vakansii/voditel-kategorii-e-48343194.html
+47571461,Инструктор по вождению,35 640 Руб,https://mo.superjob.ru/vakansii/instruktor-po-vozhdeniyu-47571461.html
+43011811,Повар-универсал в ресторан,60 000 - 70 000 Руб,https://mo.superjob.ru/vakansii/povar-universal-v-restoran-43011811.html
+47865034,Водитель грузового автомобиля (контейнеровоза) категории Е,150 000 - 180 000 Руб,https://mo.superjob.ru/vakansii/voditel-gruzovogo-avtomobilya-47865034.html
+44433698,Повар-пиццамейкер,40 000 - 50 000 Руб,https://mo.superjob.ru/vakansii/povar-piccamejker-44433698.html
+48449842,Уборщица-посудомойщица / Уборщик-посудомойщик,36 000 - 42 000 Руб,https://mo.superjob.ru/vakansii/uborschica-posudomojschica-48449842.html
+48653104,Водитель скорой помощи,48 000 Руб,https://mo.superjob.ru/vakansii/voditel-skoroj-pomoschi-48653104.html
+41604699,Продавец-кассир (м. Багратионовская), Не указано,https://mo.superjob.ru/vakansii/prodavec-kassir-41604699.html
+40808911,Слесарь-сантехник,50 000 Руб,https://mo.superjob.ru/vakansii/slesar-santehnik-40808911.html
+36771909,Упаковщица-комплектовщица,25 000 Руб,https://mo.superjob.ru/vakansii/upakovschica-komplektovschica-36771909.html
+48654555,Водитель категории Е / Дальнобойщик,110 000 Руб,https://mo.superjob.ru/vakansii/voditel-kategorii-e-48654555.html
+48199314,Математик,50 000 Руб,https://mo.superjob.ru/vakansii/matematik-48199314.html
+49001894,Контролер-упаковщик / Оператор производственной линии / Рабочий на производство,50 000 - 70 000 Руб,https://mo.superjob.ru/vakansii/kontroler-upakovschik-49001894.html
+47999612,Медицинский оптик-оптометрист,60 000 - 100 000 Руб,https://mo.superjob.ru/vakansii/medicinskij-optik-optometrist-47999612.html
+48880043,Клинер / Уборщик,38 000 - 48 000 Руб,https://mo.superjob.ru/vakansii/kliner-48880043.html
+46450087,Мастер маникюра и педикюра,100 000 Руб,https://mo.superjob.ru/vakansii/master-manikyura-i-pedikyura-46450087.html
+42971610,"Швея, раскройщик",60 000 - 80 000 Руб,https://mo.superjob.ru/vakansii/shveya-42971610.html
+48747257,Продавец,45 000 - 60 000 Руб,https://mo.superjob.ru/vakansii/prodavec-48747257.html
+47880775,"Водитель категории C, E",90 000 Руб,https://mo.superjob.ru/vakansii/voditel-kategorii-c-47880775.html
+48467056,Уборщик офисных помещений,25 000 Руб,https://mo.superjob.ru/vakansii/uborschik-ofisnyh-pomeschenij-48467056.html
+47130540,Фармацевт,65 000 Руб,https://mo.superjob.ru/vakansii/farmacevt-47130540.html
+48143998,Провизор / Фармацевт в аптеку,72 000 Руб,https://mo.superjob.ru/vakansii/provizor-48143998.html
+42971619,Страховой консультант Серебряные Пруды,20 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-konsultant-serebryanye-prudy-42971619.html
+49008923,Подсобный рабочий,90 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/podsobnyj-rabochij-49008923.html
+47070055,Слесарь по контрольно-измерительным приборам и автоматике,49 000 - 56 000 Руб,https://mo.superjob.ru/vakansii/slesar-po-kontrolno-izmeritelnym-priboram-i-avtomatike-47070055.html
+48661587,Оператор (диспетчер) весового контроля,3000 Руб,https://mo.superjob.ru/vakansii/operator-48661587.html
+45766707,Инженер-проектировщик сетей газораспределения и газопотребления,60 000 Руб,https://mo.superjob.ru/vakansii/inzhener-proektirovschik-setej-gazoraspredeleniya-i-gazopotrebleniya-45766707.html
+48964848,Шеф-повар,55 000 Руб,https://mo.superjob.ru/vakansii/shef-povar-48964848.html
+31444162,"Укладчик-упаковщик, упаковщик",75 000 Руб,https://mo.superjob.ru/vakansii/ukladchik-upakovschik-31444162.html
+47959461,Почтальон мобильной группы,53 000 - 63 000 Руб,https://mo.superjob.ru/vakansii/pochtalon-mobilnoj-gruppy-47959461.html
+48889801,Преподаватель онлайн,40 000 Руб,https://mo.superjob.ru/vakansii/prepodavatel-onlajn-48889801.html
+48220224,Мастер котельной,5000 Руб,https://mo.superjob.ru/vakansii/master-kotelnoj-48220224.html
+47276984,Дерматолог,60 000 Руб,https://mo.superjob.ru/vakansii/dermatolog-47276984.html
+43138316,Врач уролог-андролог,80 000 Руб,https://mo.superjob.ru/vakansii/vrach-urolog-androlog-43138316.html
+48666783,Провизор/Фармацевт,70 000 Руб,https://mo.superjob.ru/vakansii/provizor-48666783.html
+48799041,Шлифовщик,205 000 - 215 000 Руб,https://mo.superjob.ru/vakansii/shlifovschik-48799041.html
+46898319,Специалист по пожарной безопасности,28 250 Руб,https://mo.superjob.ru/vakansii/specialist-po-pozharnoj-bezopasnosti-46898319.html
+47450833,Велокурьер,162 000 Руб,https://mo.superjob.ru/vakansii/velokurer-47450833.html
+48652709,Кладовщик,53 000 Руб,https://mo.superjob.ru/vakansii/kladovschik-48652709.html
+47941961,Специалист по выкладке товара,68 000 Руб,https://mo.superjob.ru/vakansii/specialist-po-vykladke-tovara-47941961.html
+47029346,Мойщик котлов в столовую,30 000 Руб,https://mo.superjob.ru/vakansii/mojschik-kotlov-v-stolovuyu-47029346.html
+46166921,Ночной продавец на выкладку,70 000 Руб,https://mo.superjob.ru/vakansii/nochnoj-prodavec-na-vykladku-46166921.html
+48792191,Уборщик / Уборщица,55 000 Руб,https://mo.superjob.ru/vakansii/uborschik-48792191.html
+45856151,Слесарь / Рабочий на производство (обучаем),50 000 Руб,https://mo.superjob.ru/vakansii/slesar-45856151.html
+48391937,Курьер,80 000 - 130 000 Руб,https://mo.superjob.ru/vakansii/kurer-48391937.html
+47813329,Работник торгового зала,60 000 Руб,https://mo.superjob.ru/vakansii/rabotnik-torgovogo-zala-47813329.html
+48993378,Врач-ВОП, Не указано,https://mo.superjob.ru/vakansii/vrach-vop-48993378.html
+49037250,"Рабочий на производство и склад, комплектовщик, упаковщица, оператор линии, разнорабочий 5/2",48 000 - 60 000 Руб,https://mo.superjob.ru/vakansii/rabochij-na-proizvodstvo-i-sklad-49037250.html
+47359889,Водитель-экспедитор,90 000 Руб,https://mo.superjob.ru/vakansii/voditel-ekspeditor-47359889.html
+48811038,Токарь,205 000 - 215 000 Руб,https://mo.superjob.ru/vakansii/tokar-48811038.html
+48036689,Сборщик заказов,84 000 Руб,https://mo.superjob.ru/vakansii/sborschik-zakazov-48036689.html
+43222908,"Заточник, механик деревообрабатывающего оборудования",70 000 Руб,https://mo.superjob.ru/vakansii/zatochnik-43222908.html
+48864104,Повар-кассир,65 000 Руб,https://mo.superjob.ru/vakansii/povar-kassir-48864104.html
+48428610,Повар,65 000 Руб,https://mo.superjob.ru/vakansii/povar-48428610.html
+48997088,Сборщик-упаковщик,55 000 Руб,https://mo.superjob.ru/vakansii/sborschik-upakovschik-48997088.html
+48484871,Уборщица / Уборщик в ресторан,55 000 Руб,https://mo.superjob.ru/vakansii/uborschica-48484871.html
+32251663,Пекарь (ул. Дзержинского),42 000 Руб,https://mo.superjob.ru/vakansii/pekar-32251663.html
+48760025,Повар в цех (в дневную смену),81 500 - 113 500 Руб,https://mo.superjob.ru/vakansii/povar-v-ceh-48760025.html
+48440325,Повар в ресторан быстрого питания,70 000 Руб,https://mo.superjob.ru/vakansii/povar-v-restoran-bystrogo-pitaniya-48440325.html
+47120011,Повар-пиццамейкер,36 000 Руб,https://mo.superjob.ru/vakansii/povar-piccamejker-47120011.html
+43869555,Врач-терапевт (Фрязино),120 000 - 130 000 Руб,https://mo.superjob.ru/vakansii/vrach-terapevt-43869555.html
+48904021,Повар,55 000 Руб,https://mo.superjob.ru/vakansii/povar-48904021.html
+47713699,Разнорабочий,45 000 Руб,https://mo.superjob.ru/vakansii/raznorabochij-47713699.html
+48869153,Токарь,205 000 - 220 000 Руб,https://mo.superjob.ru/vakansii/tokar-48869153.html
+48834415,Оператор колл-центра (удалённо),70 000 Руб,https://mo.superjob.ru/vakansii/operator-koll-centra-48834415.html
+36577705,Продавец-кассир, Не указано,https://mo.superjob.ru/vakansii/prodavec-kassir-36577705.html
+24818868,Водитель-курьер на машине компании,55 000 Руб,https://mo.superjob.ru/vakansii/voditel-kurer-na-mashine-kompanii-24818868.html
+44925268,"Врач-невропатолог, нейрофизиолог",60 000 - 80 000 Руб,https://mo.superjob.ru/vakansii/vrach-nevropatolog-44925268.html
+48639849,Продавец,1500 - 2000 Руб,https://mo.superjob.ru/vakansii/prodavec-48639849.html
+47254607,Слесарь по эксплуатации и ремонту газового оборудования,65 000 - 85 000 Руб,https://mo.superjob.ru/vakansii/slesar-po-ekspluatacii-i-remontu-gazovogo-oborudovaniya-47254607.html
+48684825,Продавец-консультант,50 000 Руб,https://mo.superjob.ru/vakansii/prodavec-konsultant-48684825.html
+47443998,Оператор колл-центра,28 000 Руб,https://mo.superjob.ru/vakansii/operator-koll-centra-47443998.html
+48944357,Монтажник,90 000 Руб,https://mo.superjob.ru/vakansii/montazhnik-48944357.html
+48740254,Врач-педиатр,100 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/vrach-pediatr-48740254.html
+12140854,"Менеджер по работе с клиентами (новостройки, вторичный рынок жилья)",150 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-rabote-s-klientami-12140854.html
+41421758,Начальник отдела МТО,70 000 - 90 000 Руб,https://mo.superjob.ru/vakansii/nachalnik-otdela-mto-41421758.html
+48763483,Продавец продовольственных товаров,50 000 Руб,https://mo.superjob.ru/vakansii/prodavec-prodovolstvennyh-tovarov-48763483.html
+47438956,Контролер-упаковщик / Оператор производственной линии / Рабочий на производство,50 000 - 70 000 Руб,https://mo.superjob.ru/vakansii/kontroler-upakovschik-47438956.html
+48199303,Математик-стажер,50 000 Руб,https://mo.superjob.ru/vakansii/matematik-stazher-48199303.html
+48787568,Клирнер / Убощик,38 000 - 48 000 Руб,https://mo.superjob.ru/vakansii/klirner-48787568.html
+33905949,Офис-менеджер,30 000 Руб,https://mo.superjob.ru/vakansii/ofis-menedzher-33905949.html
+48266728,Кладовщик,35 000 Руб,https://mo.superjob.ru/vakansii/kladovschik-48266728.html
+31441713,"Наладчик оборудования, механик, техник",100 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/naladchik-oborudovaniya-31441713.html
+48844588,Мастер маникюра и педикюра,70 000 Руб,https://mo.superjob.ru/vakansii/master-manikyura-i-pedikyura-48844588.html
+44903050,Врач-эндокринолог,60 000 Руб,https://mo.superjob.ru/vakansii/vrach-endokrinolog-44903050.html
+47628549,Кассир,47 000 - 65 000 Руб,https://mo.superjob.ru/vakansii/kassir-47628549.html
+48859692,Пеший курьер,146 000 Руб,https://mo.superjob.ru/vakansii/peshij-kurer-48859692.html
+46858298,Курьер пеший,100 000 Руб,https://mo.superjob.ru/vakansii/kurer-peshij-46858298.html
+48604651,Менеджер сектора касс,80 900 Руб,https://mo.superjob.ru/vakansii/menedzher-sektora-kass-48604651.html
+47029334,Мойщик посуды в столовую,30 000 Руб,https://mo.superjob.ru/vakansii/mojschik-posudy-v-stolovuyu-47029334.html
+47120009,Повар пекарь,45 000 Руб,https://mo.superjob.ru/vakansii/povar-pekar-47120009.html
+48792206,Работник ресторана,55 000 Руб,https://mo.superjob.ru/vakansii/rabotnik-restorana-48792206.html
+47834323,Врач-офтальмолог,100 000 Руб,https://mo.superjob.ru/vakansii/vrach-oftalmolog-47834323.html
+48909580,Дорожный рабочий,75 000 - 100 000 Руб,https://mo.superjob.ru/vakansii/dorozhnyj-rabochij-48909580.html
+34547872,Водитель высотного погрузчика / электроштабелера (Софрино),75 000 Руб,https://mo.superjob.ru/vakansii/voditel-vysotnogo-pogruzchika-34547872.html
+48913161,Почтальон,23 000 - 27 000 Руб,https://mo.superjob.ru/vakansii/pochtalon-48913161.html
+33466029,Упаковщик-комплектовщик,55 000 Руб,https://mo.superjob.ru/vakansii/upakovschik-komplektovschik-33466029.html
+45546653,Специалист по охране труда и технике безопасности,50 000 Руб,https://mo.superjob.ru/vakansii/specialist-po-ohrane-truda-i-tehnike-bezopasnosti-45546653.html
+48801377,Приемщик заказов / Продавец-консультант,1400 Руб,https://mo.superjob.ru/vakansii/priemschik-zakazov-48801377.html
+47101072,Повар-сушист,60 000 - 95 000 Руб,https://mo.superjob.ru/vakansii/povar-sushist-47101072.html
+48943546,Подсобный рабочий,90 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/podsobnyj-rabochij-48943546.html
+48943668,Разнорабочий,90 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/raznorabochij-48943668.html
+48181037,Помощник экономиста,50 000 Руб,https://mo.superjob.ru/vakansii/pomoschnik-ekonomista-48181037.html
+46341801,Менеджер по продажам страховых продуктов,10 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-prodazham-strahovyh-produktov-46341801.html
+37150086,Специалист по страхованию. Страховой агент,50 000 Руб,https://mo.superjob.ru/vakansii/specialist-po-strahovaniyu-37150086.html
+48448046,Колорист,45 000 Руб,https://mo.superjob.ru/vakansii/kolorist-48448046.html
+46911072,Менеджер по страхованию,50 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-strahovaniyu-46911072.html
+46385855,Фельдшер (предрейсовые осмотры и первая медицинская помощь),45 000 Руб,https://mo.superjob.ru/vakansii/feldsher-46385855.html
+48197894,Младший экономист,50 000 Руб,https://mo.superjob.ru/vakansii/mladshij-ekonomist-48197894.html
+48199156,Экономист-стажер,50 000 Руб,https://mo.superjob.ru/vakansii/ekonomist-stazher-48199156.html
+47875696,Товаровед,35 000 Руб,https://mo.superjob.ru/vakansii/tovaroved-47875696.html
+33906909,Страховой агент,30 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-agent-33906909.html
+46417945,Уборщица,30 000 Руб,https://mo.superjob.ru/vakansii/uborschica-46417945.html
+48841581,Методист по созданию образовательных программ,45 000 Руб,https://mo.superjob.ru/vakansii/metodist-po-sozdaniyu-obrazovatelnyh-programm-48841581.html
+48013454,Контролёр склада,41 379 Руб,https://mo.superjob.ru/vakansii/kontroljor-sklada-48013454.html
+47687317,Бухгалтер,70 000 Руб,https://mo.superjob.ru/vakansii/buhgalter-47687317.html
+44551204,Повар мангала,70 000 - 80 000 Руб,https://mo.superjob.ru/vakansii/povar-mangala-44551204.html
+45173515,Заведующий производством, Не указано,https://mo.superjob.ru/vakansii/zaveduyuschij-proizvodstvom-45173515.html
+45235422,Контролер,38 000 Руб,https://mo.superjob.ru/vakansii/kontroler-45235422.html
+47014154,Сантехник,33 900 - 35 000 Руб,https://mo.superjob.ru/vakansii/santehnik-47014154.html
+47284384,Специалист по приему алкоголя,47 460 Руб,https://mo.superjob.ru/vakansii/specialist-po-priemu-alkogolya-47284384.html
+47450398,Кладовщик-сборщик заказов,84 000 Руб,https://mo.superjob.ru/vakansii/kladovschik-sborschik-zakazov-47450398.html
+48857067,Водитель-курьер,131 000 Руб,https://mo.superjob.ru/vakansii/voditel-kurer-48857067.html
+47451354,Комплектовщик онлайн-заказов,84 000 Руб,https://mo.superjob.ru/vakansii/komplektovschik-onlajn-zakazov-47451354.html
+48737569,Механик,100 000 Руб,https://mo.superjob.ru/vakansii/mehanik-48737569.html
+48655989,Комплектовщик,55 000 Руб,https://mo.superjob.ru/vakansii/komplektovschik-48655989.html
+48647803,Сборщик,55 000 Руб,https://mo.superjob.ru/vakansii/sborschik-48647803.html
+47438968,Кассир-консультант,55 350 Руб,https://mo.superjob.ru/vakansii/kassir-konsultant-47438968.html
+48010647,Специалист по продажам проектов,70 800 Руб,https://mo.superjob.ru/vakansii/specialist-po-prodazham-proektov-48010647.html
+47451747,Менеджер склада (складские операции),80 900 Руб,https://mo.superjob.ru/vakansii/menedzher-sklada-47451747.html
+48615882,Менеджер склада,80 900 Руб,https://mo.superjob.ru/vakansii/menedzher-sklada-48615882.html
+47864182,Сотрудник склада,355 Руб,https://mo.superjob.ru/vakansii/sotrudnik-sklada-47864182.html
+47438800,Администратор склада,68 800 Руб,https://mo.superjob.ru/vakansii/administrator-sklada-47438800.html
+47447365,Менеджер интернет-магазина,80 900 Руб,https://mo.superjob.ru/vakansii/menedzher-internet-magazina-47447365.html
+47836994,Водитель погрузчика,77 400 Руб,https://mo.superjob.ru/vakansii/voditel-pogruzchika-47836994.html
+48743812,Повар-универсал в ресторан,183 000 Руб,https://mo.superjob.ru/vakansii/povar-universal-v-restoran-48743812.html
+49048142,Продавец (ТЦ Юнимолл),66 000 Руб,https://mo.superjob.ru/vakansii/prodavec-49048142.html
+48703283,Повар-блинопек,65 000 Руб,https://mo.superjob.ru/vakansii/povar-blinopek-48703283.html
+48856896,Повар-универсал,183 000 Руб,https://mo.superjob.ru/vakansii/povar-universal-48856896.html
+48024949,Продавец-кассир,65 000 Руб,https://mo.superjob.ru/vakansii/prodavec-kassir-48024949.html
+48615896,Менеджер торгового отдела,80 900 Руб,https://mo.superjob.ru/vakansii/menedzher-torgovogo-otdela-48615896.html
+48157903,Водитель туристического автобуса,104 000 - 130 000 Руб,https://mo.superjob.ru/vakansii/voditel-turisticheskogo-avtobusa-48157903.html
+48441112,Помощник повара,65 000 Руб,https://mo.superjob.ru/vakansii/pomoschnik-povara-48441112.html
+46867776,Курьер пеший,100 000 Руб,https://mo.superjob.ru/vakansii/kurer-peshij-46867776.html
+46883755,Сотрудник ночной смены предприятия «Вкусно — и точка»,80 000 Руб,https://mo.superjob.ru/vakansii/sotrudnik-nochnoj-smeny-predpriyatiya-46883755.html
+48237490,Оператор-кассир АЗС,65 000 - 75 000 Руб,https://mo.superjob.ru/vakansii/operator-kassir-azs-48237490.html
+47432795,Буфетчица,30 000 Руб,https://mo.superjob.ru/vakansii/bufetchica-47432795.html
+48943295,Стропальщик,90 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/stropalschik-48943295.html
+47553012,Преподаватель по охране труда,50 000 - 60 000 Руб,https://mo.superjob.ru/vakansii/prepodavatel-po-ohrane-truda-47553012.html
+46306831,Специалист по страхованию,10 000 Руб,https://mo.superjob.ru/vakansii/specialist-po-strahovaniyu-46306831.html
+48195337,Страховой представитель / Агент,35 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-predstavitel-48195337.html
+47590531,Менеджер по страхованию,10 000 Руб,https://mo.superjob.ru/vakansii/menedzher-po-strahovaniyu-47590531.html
+46306835,Страховой агент,10 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-agent-46306835.html
+49030134,Онлайн-продавец,30 000 Руб,https://mo.superjob.ru/vakansii/onlajn-prodavec-49030134.html
+29175217,Страховой консультант,30 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-konsultant-29175217.html
+31128233,Оператор call-центра в клинике/менеджер по работе с клиентами,32 000 Руб,https://mo.superjob.ru/vakansii/operator-call-centra-v-klinike-31128233.html
+48870354,Контент-менеджер,28 800 Руб,https://mo.superjob.ru/vakansii/kontent-menedzher-48870354.html
+46163940,Инженер-измеритель испытательной лаборатории СОУТ, Не указано,https://mo.superjob.ru/vakansii/inzhener-izmeritel-ispytatelnoj-laboratorii-sout-46163940.html
+48717072,Инженер по водно-химическому режиму,40 000 Руб,https://mo.superjob.ru/vakansii/inzhener-po-vodno-himicheskomu-rezhimu-48717072.html
+44873864,Специалист по продажам в отдел телемаркетинга,45 000 Руб,https://mo.superjob.ru/vakansii/specialist-po-prodazham-v-otdel-telemarketinga-44873864.html
+49011461,Оператор call-центра (входящие звонки),50 000 Руб,https://mo.superjob.ru/vakansii/operator-call-centra-49011461.html
+47116456,Страховой агент,10 000 Руб,https://mo.superjob.ru/vakansii/strahovoj-agent-47116456.html
+44392942,Помощник повара в столовую,30 000 Руб,https://mo.superjob.ru/vakansii/pomoschnik-povara-v-stolovuyu-44392942.html
+48999574,Оператор call-центра (исходящие звонки),32 650 Руб,https://mo.superjob.ru/vakansii/operator-call-centra-48999574.html
+48924841,Разнорабочий,90 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/raznorabochij-48924841.html
+48926505,Монтажник,90 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/montazhnik-48926505.html
+48935070,Разнорабочий,90 000 - 120 000 Руб,https://mo.superjob.ru/vakansii/raznorabochij-48935070.html
+48943174,Стропальщик,90 000 Руб,https://mo.superjob.ru/vakansii/stropalschik-48943174.html

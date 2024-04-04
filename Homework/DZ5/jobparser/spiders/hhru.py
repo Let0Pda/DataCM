@@ -20,8 +20,7 @@ class HhruSpider(scrapy.Spider):
 
     def vacancy_parse(self, response: HtmlResponse):
         name = response.xpath("//h1/text()").get()
-        salary_parts = response.xpath("//div[@data-qa='vacancy-salary']//text()").getall()
-        salary = self.process_salary_range(salary_parts)
+        salary = response.xpath("//div[@data-qa='vacancy-salary']//text()").getall()
         url = response.url
         url_base = url.split("?")[0]
         _id = url_base.split("/")[-1]

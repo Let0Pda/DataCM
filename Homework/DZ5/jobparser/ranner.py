@@ -3,7 +3,7 @@ from scrapy.utils.reactor import install_reactor
 from scrapy.utils.log import configure_logging
 from scrapy.utils.project import get_project_settings
 
-# from spiders.hhru import HhruSpider
+from spiders.hhru import HhruSpider
 from spiders.superjobru import SuperjobruSpider
 
 
@@ -12,6 +12,6 @@ if __name__ == "__main__":
     settings = get_project_settings()
     install_reactor("twisted.internet.asyncioreactor.AsyncioSelectorReactor")
     process = CrawlerProcess(settings)
-    # process.crawl(HhruSpider)
+    process.crawl(HhruSpider)
     process.crawl(SuperjobruSpider)
     process.start()
