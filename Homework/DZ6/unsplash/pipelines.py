@@ -6,19 +6,20 @@
 
 # useful for handling different item types with a single interface
 # from itemadapter import ItemAdapter
-
+from ranner import query
 from scrapy.pipelines.images import ImagesPipeline
 from scrapy.http import Request
 import csv
-from pymongo import MongoClient
-from pymongo import errors
+from pymongo import MongoClient, errors
 from datetime import datetime
 import uuid
 import re
 
+
 now = datetime.now()
 date_string = now.strftime("%d%m%y")
 mongo_base_name = f"unsplash{date_string}"
+request_img = query
 
 
 def process_id(item):
@@ -26,28 +27,20 @@ def process_id(item):
     return str(uuid.uuid4())
 
 
-def process_image_info(item):
-    # Удаляем "Download this free HD photo of" и все слова, которые предшествуют "of"
-    description = re.sub(r"Download this free HD photo of.*?(?=of)", "", item["description"]).strip()
-    # Извлекаем название и категорию из item
-    name = item["name"]
-    category = description.split(",")[0].strip() if "," in description else description
-    # Возвращаем словарь с названием, категорией, URL изображения и локальным путем к файлу
-    return {"name": name, "category": category, "url": item["photos"][0]["url"], "local_path": item["photos"][0]["path"]}
+def process_description(description):
+    # Извлечение автора из описания
+    author_match = re.search(r"by\s(.+)", description)
+    if author_match:
+        author = author_match.group(1)
+        # Удаление автора из описания
+        description = re.sub(r"by\s(.+)", "", description)
+    else:
+        author = None
 
+    # Удаление "Download this free HD photo of" и текста до "of"
+    filtered_description = re.sub(r"^.*?of\s+", "", description).strip()
 
-def save_to_csv(item, spider):
-    # Извлекаем информацию об изображении
-    image_info = process_image_info(item)
-    image_info["_id"] = item["_id"]
-    # Открываем CSV-файл в режиме добавления
-    with open(f"{spider.name}_{date_string}.csv", "a", newline="", encoding="utf-8") as file:
-        writer = csv.DictWriter(file, fieldnames=["_id", "name", "category", "url", "local_path"])
-        # Если файл пустой, записываем заголовки столбцов
-        if file.tell() == 0:
-            writer.writeheader()
-        # Записываем информацию об изображении в CSV-файл
-        writer.writerow(image_info)
+    return filtered_description, author
 
 
 class UnsplashPipeline:
@@ -63,29 +56,50 @@ class UnsplashPipeline:
 
     def process_item(self, item, spider):
         item["_id"] = process_id(item)
-        collection = self.client[mongo_base_name][spider.name]
+        item["description"], item["author"] = process_description(item["description"])
+
+        # Сохранение в MongoDB
+        collection = self.client[mongo_base_name][request_img]
         try:
             collection.insert_one(item)
         except errors.DuplicateKeyError:
             print(f"Ошибка: Документ с _id {item['_id']} уже существует.")
-        save_to_csv(item, spider)
+        print()
+        # Сохранение в CSV
+        self.save_to_csv(item)
+
         return item
 
     def close_spider(self, spider):
         self.client.close()
 
+    def save_to_csv(self, item):
+        # Определение пути к CSV файлу
+        csv_file_path = f"{request_img}_{date_string}.csv"
+
+        # Определение полей на основе содержания элемента item
+        fieldnames = list(item.keys())
+
+        # Проверяем наличие CSV файла и записываем данные
+        with open(csv_file_path, mode="a+", newline="", encoding="utf-8") as file:
+            writer = csv.DictWriter(file, fieldnames=fieldnames)
+            if file.tell() == 0:  # Проверка на пустой файл
+                writer.writeheader()
+            writer.writerow(item)
+
 
 class UnsplashPhotoPipeline(ImagesPipeline):
+
     def get_media_requests(self, item, info):
         if item["photos"]:
             for img in item["photos"]:
                 try:
-                    yield Request(img)
+                    yield Request(img, meta={"image_name": request_img})
                 except Exception as e:
                     print(e)
 
     def item_completed(self, results, item, info):
         if results:
             item["photos"] = [itm[1] for itm in results if itm[0]]
-
+        print()
         return item

@@ -33,3 +33,4 @@ class UnsplashItem(scrapy.Item):
     date = scrapy.Field(input_processor=Compose(process_date), output_processor=TakeFirst())
     url = scrapy.Field(output_processor=TakeFirst())
     _id = scrapy.Field()
+    author = scrapy.Field()
