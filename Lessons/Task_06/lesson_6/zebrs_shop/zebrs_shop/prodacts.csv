@@ -1,0 +1,33 @@
+name,price
+OnePlus Nord CE4(8 GB RAM + 256 GB Storage)Dark Chrome,//div[@class='me-2 product-price']/text()
+OnePlus Nord CE4(8 GB RAM + 128 GB Storage)Dark Chrome,//div[@class='me-2 product-price']/text()
+OnePlus Nord CE4(8 GB RAM + 256 GB Storage)Celadon Marble,//div[@class='me-2 product-price']/text()
+OnePlus Nord CE4(8 GB RAM + 128 GB Storage)Celadon Marble,//div[@class='me-2 product-price']/text()
+"realme 12x 5G (Woodland Green, 128 GB) (8 GB RAM)","15,999.00"
+"realme 12x 5G (Twilight Purple, 128 GB) (8 GB RAM)","15,999.00"
+"realme 12x 5G (Woodland Green, 128 GB) (6 GB RAM)","13,999.00"
+"realme 12x 5G (Twilight Purple, 128 GB) (6 GB RAM)","13,999.00"
+"realme 12x 5G (Woodland Green, 128 GB) (4 GB RAM)","12,999.00"
+"realme 12x 5G (Twilight Purple, 128 GB) (4 GB RAM)","12,999.00"
+"vivo V30 5G (Peacock Green, 128 GB)  (8 GB RAM)","33,999.00"
+"Samsung Galaxy S24 Plus 5G AI Smartphone (Cobalt Violet, 12GB, 512GB Storage)",//div[@class='me-2 product-price']/text()
+"Samsung Galaxy S24 Plus 5G AI Smartphone (Onyx Black, 12GB, 512GB Storage)",//div[@class='me-2 product-price']/text()
+"Samsung Galaxy S24 Plus 5G AI Smartphone (Onyx Black, 12GB, 256GB Storage)",//div[@class='me-2 product-price']/text()
+"Samsung Galaxy S24 Plus 5G AI Smartphone (Cobalt Violet, 12GB, 256GB Storage)",//div[@class='me-2 product-price']/text()
+"Samsung Galaxy A55 5G (Awesome Navy, 12GB RAM, 256GB Storage)","45,999.00"
+"Motorola razr 40 Ultra (Glacier Blue, 8GB RAM, 256GB Storage) | 3.6"" External AMOLED Display | 6.9"" AMOLED 165Hz Display | 32MP Selfie Camera |30W TurboPower Charging | Android 13","79,999.00"
+"Motorola razr 40 Ultra (Peach Fuzz, 8GB RAM, 256GB Storage) | 3.6"" External AMOLED Display | 6.9"" AMOLED 165Hz Display | 32MP Selfie Camera |30W TurboPower Charging | Android 13","79,999.00"
+"Motorola razr 40 Ultra (Infinite Black, 8GB RAM, 256GB Storage) | 3.6"" External AMOLED Display | 6.9"" AMOLED 165Hz Display | 32MP Selfie Camera |30W TurboPower Charging | Android 13","79,999.00"
+"Motorola razr 40 Ultra (Viva Magenta, 8GB RAM, 256GB Storage) | 3.6"" External AMOLED Display | 6.9"" AMOLED 165Hz Display | 32MP Selfie Camera |30W TurboPower Charging | Android 13","79,999.00"
+"Motorola razr 40 (Sage Green, 8GB RAM, 256GB Storage) | External AMOLED Display | 6.9"" AMOLED 144Hz Display | 64MP Main Camera | Android 13","49,999.00"
+"Motorola razr 40 (Summer Lilac, 8GB RAM, 256GB Storage) | External AMOLED Display | 6.9"" AMOLED 144Hz Display | 64MP Main Camera | Android 13","49,999.00"
+"Motorola razr 40 (Vanilla Cream, 8GB RAM, 256GB Storage) | External AMOLED Display | 6.9"" AMOLED 144Hz Display | 64MP Main Camera | Android 13","49,999.00"
+"Redmi A2+ (Aqua Blue, 4GB RAM, 128GB Storage)","8,099.00"
+"Redmi 12 (Moonstone Silver,6GB RAM, 128GB Storage)","11,499.00"
+"Redmi 12 (Jade Black,6GB RAM, 128GB Storage)","11,499.00"
+"Redmi 12 (Pastel Blue,4GB RAM, 128GB Storage)","9,999.00"
+"Redmi Note 12 Pro 5G (Onyx Black, 12GB RAM, 256GB Storage)","26,499.00"
+"Redmi Note 12 Pro 5G (Glacier Blue, 12GB RAM, 256GB Storage)","26,499.00"
+"Redmi Note 12 Pro 5G (Glacier Blue, 6GB RAM, 128GB Storage)","22,499.00"
+"Redmi Note 12 Pro 5G (Glacier Blue, 8GB RAM, 256GB Storage)","24,499.00"
+"Redmi Note 12 Pro 5G (Onyx Black, 8GB RAM, 256GB Storage)","24,499.00"
